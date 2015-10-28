@@ -1,2 +1,2 @@
 # lullabies
-Lullabies workspaces in Sensomusic Hollyhock
+Noise ambient music patches/workspaces created in Sensomusic Hollyhock
