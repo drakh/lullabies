@@ -1,0 +1,6151 @@
+[RASE]
+UID=98807551
+enabled=1
+on top=0
+opacity=1
+left=2
+top=2
+width=111
+height=22
+zoom scale=1
+transparent=0
+background color=clDarkPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=cl21
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=cl21
+minimized=1
+HeightBeforeMinimize=983
+WidthBeforeMinimize=513
+auto resize=0
+auto resize margin=2
+auto reorganize=1
+reorganize margin=2
+reorganize interspace=3
+name=l6 drone
+always calculated=0
+saved in preset=1
+rack input=1
+rack output=1
+presets panel=0
+show when active on grid=1
+fit grid line number=0
+rack type=0
+
+[RA]
+UID=98807551
+VISIBLE=1
+MINIMIZED=1
+CNT=4
+
+[RATBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RATBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RATBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAPRESETSSE]
+UID=98807793
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=0
+top=20
+width=161
+height=85
+zoom scale=1
+transparent=0
+background color=clMoreLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clMoreLitePanelBack
+show toolbar=1
+toolbar size=15
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+show border button=0
+button color=clControlBack
+button font color=clFont
+button border color=clControlBorder
+show cmd=1
+show border cmd=0
+cmd ON color=clURed
+cmd OFF color=clControlBack
+cmd font ON color=clFont
+cmd font OFF color=clFont
+cmd border ON color=clControlBorder
+cmd border OFF color=clControlBorder
+silent edit=0
+
+[RAPRESETS]
+UID=98807793
+VISIBLE=0
+MINIMIZED=0
+CURRENT CAPTION=
+CURRENT NUM=0
+
+[RAPRESETSTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAPRESETSTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAPRESETSTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-]
+PATCHTYPE=0
+VERSION=73
+FNAM=
+ORIGINDEVICE=
+NBPG=31
+OFFSETX=-498
+OFFSETY=-127
+UID=98867068
+ID0=415
+L0=458
+T0=182
+QIDX1=0
+ID1=6
+L1=1334
+T1=379
+ID2=2
+L2=1374
+T2=185
+ID3=2
+L3=1372
+T3=237
+QIDX4=0
+ID4=6
+L4=1343
+T4=468
+QIDX5=1
+ID5=261
+L5=1173
+T5=273
+ID6=415
+L6=461
+T6=291
+ID7=84
+L7=280
+T7=269
+ID8=84
+L8=279
+T8=129
+ID9=415
+L9=444
+T9=79
+ID10=415
+L10=458
+T10=386
+QIDX11=0
+ID11=326
+L11=647
+T11=424
+ID12=84
+L12=281
+T12=407
+ID13=84
+L13=280
+T13=550
+ID14=84
+L14=33
+T14=428
+ID15=70
+L15=137
+T15=452
+ID16=84
+L16=32
+T16=560
+ID17=70
+L17=135
+T17=586
+ID18=84
+L18=34
+T18=293
+ID19=70
+L19=120
+T19=301
+ID20=84
+L20=22
+T20=130
+ID21=70
+L21=118
+T21=152
+ID22=415
+L22=461
+T22=570
+QIDX23=0
+ID23=326
+L23=659
+T23=632
+ID24=84
+L24=273
+T24=694
+ID25=84
+L25=31
+T25=692
+ID26=70
+L26=129
+T26=739
+ID27=84
+L27=266
+T27=828
+ID28=84
+L28=31
+T28=832
+ID29=70
+L29=122
+T29=873
+QIDX30=0
+ID30=6
+L30=912
+T30=506
+C0=0800010000000100
+CSRCNAME0=OUT
+CTARGNAME0=FREQUENCY
+C1=0500030001000000
+CSRCNAME1=OUT 1
+CTARGNAME1=AUDIO 1
+C2=0500030002000000
+CSRCNAME2=OUT 1
+CTARGNAME2=AUDIO 1
+C3=0500040003000000
+CSRCNAME3=OUT 2
+CTARGNAME3=AUDIO 2
+C4=0500040004000000
+CSRCNAME4=OUT 2
+CTARGNAME4=AUDIO 1
+C5=0000000005000100
+CSRCNAME5=OUT
+CTARGNAME5=IN 1
+C6=0600000005000200
+CSRCNAME6=OUT
+CTARGNAME6=IN 2
+C7=0600000005000100
+CSRCNAME7=OUT
+CTARGNAME7=IN 1
+C8=0000000005000200
+CSRCNAME8=OUT
+CTARGNAME8=IN 2
+C9=0900000005000100
+CSRCNAME9=OUT
+CTARGNAME9=IN 1
+C10=0900000005000200
+CSRCNAME10=OUT
+CTARGNAME10=IN 2
+C11=0A00000005000100
+CSRCNAME11=OUT
+CTARGNAME11=IN 1
+C12=0A00000005000200
+CSRCNAME12=OUT
+CTARGNAME12=IN 2
+C13=1E00020005000100
+CSRCNAME13=AUDIO 1
+CTARGNAME13=IN 1
+C14=1E00030005000200
+CSRCNAME14=AUDIO 2
+CTARGNAME14=IN 2
+C15=0700010006000100
+CSRCNAME15=OUT
+CTARGNAME15=FREQUENCY
+C16=1300020007000300
+CSRCNAME16=OUT
+CTARGNAME16=FREQ
+C17=1500020008000300
+CSRCNAME17=OUT
+CTARGNAME17=FREQ
+C18=0800010009000100
+CSRCNAME18=OUT
+CTARGNAME18=FREQUENCY
+C19=070001000A000100
+CSRCNAME19=OUT
+CTARGNAME19=FREQUENCY
+C20=000000000B000200
+CSRCNAME20=OUT
+CTARGNAME20=IN 1
+C21=0C0001000B000500
+CSRCNAME21=OUT
+CTARGNAME21=FREQ
+C22=0D0001000B000600
+CSRCNAME22=OUT
+CTARGNAME22=Q
+C23=0F0002000C000300
+CSRCNAME23=OUT
+CTARGNAME23=FREQ
+C24=110002000D000300
+CSRCNAME24=OUT
+CTARGNAME24=FREQ
+C25=0E0001000F000100
+CSRCNAME25=OUT
+CTARGNAME25=IN
+C26=1000010011000100
+CSRCNAME26=OUT
+CTARGNAME26=IN
+C27=1200010013000100
+CSRCNAME27=OUT
+CTARGNAME27=IN
+C28=1400010015000100
+CSRCNAME28=OUT
+CTARGNAME28=IN
+C29=1600000017000200
+CSRCNAME29=OUT
+CTARGNAME29=IN 1
+C30=1800010017000500
+CSRCNAME30=OUT
+CTARGNAME30=FREQ
+C31=1B00010017000600
+CSRCNAME31=OUT
+CTARGNAME31=Q
+C32=1A00020018000300
+CSRCNAME32=OUT
+CTARGNAME32=FREQ
+C33=190001001A000100
+CSRCNAME33=OUT
+CTARGNAME33=IN
+C34=1D0002001B000300
+CSRCNAME34=OUT
+CTARGNAME34=FREQ
+C35=1C0001001D000100
+CSRCNAME35=OUT
+CTARGNAME35=IN
+C36=170003001E000000
+CSRCNAME36=OUT 1
+CTARGNAME36=AUDIO 1
+C37=170003001E000100
+CSRCNAME37=OUT 1
+CTARGNAME37=AUDIO 2
+C38=0B0003001E000000
+CSRCNAME38=OUT 1
+CTARGNAME38=AUDIO 1
+C39=0B0003001E000100
+CSRCNAME39=OUT 1
+CTARGNAME39=AUDIO 2
+NBCO=40
+
+[RAE1-PASE]
+name=patch
+where=0
+saved in preset=1
+can be randomized=1
+undo enabled=1
+shared=0
+presets panel=0
+enabled=1
+on top=0
+opacity=1
+left=2
+top=85
+width=110
+height=70
+zoom scale=1
+transparent=0
+background color=clLiterPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clLiterPanelBack
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[RAE1-PRESETSSE]
+UID=98870153
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=3
+top=23
+width=161
+height=22
+zoom scale=1
+transparent=0
+background color=clMoreLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clMoreLitePanelBack
+show toolbar=1
+toolbar size=15
+minimized=1
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+show border button=0
+button color=clControlBack
+button font color=clFont
+button border color=clControlBorder
+show cmd=1
+show border cmd=0
+cmd ON color=clURed
+cmd OFF color=clControlBack
+cmd font ON color=clFont
+cmd font OFF color=clFont
+cmd border ON color=clControlBorder
+cmd border OFF color=clControlBorder
+silent edit=0
+
+[RAE1-PRESETS]
+UID=98870153
+VISIBLE=0
+MINIMIZED=1
+CURRENT CAPTION=
+CURRENT NUM=0
+
+[RAE1-PRESETSTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-PRESETSTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-PRESETSTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-0]
+UID=4210327
+Vfrequency=105.507797241211
+Vamplitude=0.200000002980232
+Vsmooth amplitude=1
+INDEXtype=3
+
+[RAE1-1]
+UID=12369785
+name=Oscilloscope Audio
+nb polyphony=1
+can be randomized=1
+saved in preset=1
+Vfader=1
+INDEXvisible=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.109195403754711
+Vmouse y=0
+NBCLONES=1
+
+[RAE1-1faderSE]
+UID=8295296
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=56
+width=161
+height=28
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=3
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=1
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+text align=1
+show fader=1
+fader color=cl20
+dashed fader=1
+show cursor=1
+cursor color=clFaderCursor
+cursor width=4
+show value=1
+value font color=clFont
+value font size factor=1
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-1mouse dwnSE]
+UID=12370247
+
+[RAE1-1dbl clickSE]
+UID=12370297
+
+[RAE1-1mouse xSE]
+UID=12370338
+
+[RAE1-1mouse ySE]
+UID=12370391
+
+[RAE1-1CTRLSE]
+enabled=1
+on top=0
+opacity=1
+left=0
+top=28
+width=110
+height=70
+zoom scale=1
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clVeryLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clDataFlow
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+name=Oscilloscope Audio
+saved in preset=1
+can be randomized=1
+
+[RAE1-1CTRL]
+UID=12366190
+VISIBLE=0
+MINIMIZED=0
+
+[RAE1-1CTRLTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-1CTRLTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-1-]
+PATCHTYPE=9
+VERSION=73
+FNAM=C:\Hollyhock\Resources\Modules\All Modules\Audio\Oscilloscope Audio.pat
+ORIGINDEVICE=
+NBPG=11
+OFFSETX=0
+OFFSETY=0
+UID=12846850
+ID0=1
+L0=597.375
+T0=10.45703125
+QIDX1=1
+ID1=270
+L1=1236
+T1=-24
+ID2=136
+L2=1006
+T2=66
+ID3=230
+L3=728
+T3=36
+ID4=3
+L4=617
+T4=153
+ID5=73
+L5=848
+T5=117
+ID6=290
+L6=726
+T6=134
+ID7=38
+L7=848
+T7=56
+ID8=3
+L8=618
+T8=119
+ID9=138
+L9=911.99609375
+T9=37.12109375
+ID10=138
+L10=1113
+T10=92
+C0=0A00020001002400
+CSRCNAME0=ARRAY OUT
+CTARGNAME0=VALUES
+C1=0500030002000100
+CSRCNAME1=OUT
+CTARGNAME1=ARRAY LEN MAX
+C2=0900020002000000
+CSRCNAME2=ARRAY OUT
+CTARGNAME2=DATA IN
+C3=0000000003000100
+CSRCNAME3=AUDIO 1
+CTARGNAME3=ARRAY IN
+C4=0600010005000000
+CSRCNAME4=OUT
+CTARGNAME4=IN
+C5=0400010006000000
+CSRCNAME5=FADER 1
+CTARGNAME5=IN
+C6=0300020007000000
+CSRCNAME6=ARRAY OUT
+CTARGNAME6=A
+C7=0800010007000100
+CSRCNAME7=FADER 2
+CTARGNAME7=B
+C8=0700020009000100
+CSRCNAME8=OUT
+CTARGNAME8=ARRAY IN
+C9=020002000A000100
+CSRCNAME9=ARRAY OUT
+CTARGNAME9=ARRAY IN
+NBCO=10
+
+[RAE1-1-PASE]
+name=Oscilloscope Audio
+saved in preset=1
+can be randomized=1
+enabled=1
+on top=0
+opacity=1
+left=0
+top=28
+width=110
+height=70
+zoom scale=1
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clVeryLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clDataFlow
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[RAE1-1-0]
+UID=8291136
+once in poly=0
+
+[RAE1-1-1]
+UID=37093301
+saved in preset=1
+can be randomized=1
+INDEXvisible=1
+Vout=-0.79790198802948
+Vmin=-1
+Vmax=1
+INDEXsync=0
+Vnum=100
+Vlen=2000
+Vreset val=0
+Vno repeat=0
+Vlock=0
+INDEXprec=2
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.0980392172932625
+Vmouse y=0
+Vallow drop=0
+
+[RAE1-1-1step posSE]
+UID=8292533
+
+[RAE1-1-1valuesSE]
+UID=8292498
+
+[RAE1-1-1mouse dwnSE]
+UID=37045110
+
+[RAE1-1-1dbl clickSE]
+UID=37045187
+
+[RAE1-1-1mouse xSE]
+UID=37045258
+
+[RAE1-1-1mouse ySE]
+UID=37045329
+
+[RAE1-1-1CTRLSE]
+UID=8292741
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=91
+width=161
+height=63
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=4
+rounded=0
+round size=0
+show caption=0
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=0
+show header=0
+header height=20
+header color=clControlBorder
+show toolbar=1
+toolbar size=16
+step color=clButton
+big step color=clDataFlow
+big step interval=0
+show step border=1
+step border color=clDataFlow
+line color=cl20
+line width=1
+mode fill=0
+fill color=clButton
+show grid=1
+grid color=clStepGridLite
+full grid size=1
+V divisions=0
+H divisions=0
+show cursor=1
+cursor color=clCursor
+cursor width=2
+horizotal scale=0
+vertical scale=0
+
+[RAE1-1-1CTRL]
+UID=8292741
+VISIBLE=0
+MINIMIZED=0
+MIN=-1
+MAX=1
+TABV=4E434CBF33DBA3BE6CD347BE7EEEBDBDDA7888BC02D3ABBD1AD510BEC86E80BE149BF2BE9E7B1EBF392032BF731427BEFEBE2CBE225B3FBD3899253EFC79B13E02DE7B3F60B4903F4A01923F0A108E3F54DB7D3F1E3C413F00D8E63EBCE9013E907576BE237615BF2EEC4FBF20CB78BF0DB482BF064D80BF569258BFCB93B4BEEB1760BEAD2058BD68BDB8BC029B3FBD5E17B0BDC2076CBE1434453EAE6CDD3DE467B33A60E44DBD15EBD13BB822093EDECC9B3E54CB613FBF50823FF621903F396C863F0BBD753FC55A343F7237C23E61EE653D887997BE93DA27BFE5F56DBF130C86BF9A438FBF6A748ABF5BD570BF0096B9BE703D4DBE4663D4BC6BAEB53D77ACBB3DF6DFCA3D5BD3193FF459D13E964E843E5E91F63D6AD8403D648A483C7932703DDC8A353EC2EF973EA223563F0446793F06A16A3F6A71533F3F14253F4659A93E57CECB3BECEDACBE50B333BFCEA973BFD5A593BF666B97BF913993BFB2FC83BF9CD74DBF00F94FBE214350BD1B060F3E016E563E55D74C3F247E353FDE0D0D3F1081C73EAD7F603E0FF2F13D
+TABL=100
+
+[RAE1-1-1LINESSE]
+UID=8292741
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=91
+width=161
+height=63
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=4
+rounded=0
+round size=0
+show caption=0
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=0
+show header=0
+header height=20
+header color=clControlBorder
+show toolbar=1
+toolbar size=16
+step color=clButton
+big step color=clDataFlow
+big step interval=0
+show step border=1
+step border color=clDataFlow
+line color=cl20
+line width=1
+mode fill=0
+fill color=clButton
+show grid=1
+grid color=clStepGridLite
+full grid size=1
+V divisions=0
+H divisions=0
+show cursor=1
+cursor color=clCursor
+cursor width=2
+horizotal scale=0
+vertical scale=0
+
+[RAE1-1-1LINES]
+UID=8292741
+VISIBLE=0
+MINIMIZED=0
+MIN=-1
+MAX=1
+TABV=4E434CBF33DBA3BE6CD347BE7EEEBDBDDA7888BC02D3ABBD1AD510BEC86E80BE149BF2BE9E7B1EBF392032BF731427BEFEBE2CBE225B3FBD3899253EFC79B13E02DE7B3F60B4903F4A01923F0A108E3F54DB7D3F1E3C413F00D8E63EBCE9013E907576BE237615BF2EEC4FBF20CB78BF0DB482BF064D80BF569258BFCB93B4BEEB1760BEAD2058BD68BDB8BC029B3FBD5E17B0BDC2076CBE1434453EAE6CDD3DE467B33A60E44DBD15EBD13BB822093EDECC9B3E54CB613FBF50823FF621903F396C863F0BBD753FC55A343F7237C23E61EE653D887997BE93DA27BFE5F56DBF130C86BF9A438FBF6A748ABF5BD570BF0096B9BE703D4DBE4663D4BC6BAEB53D77ACBB3DF6DFCA3D5BD3193FF459D13E964E843E5E91F63D6AD8403D648A483C7932703DDC8A353EC2EF973EA223563F0446793F06A16A3F6A71533F3F14253F4659A93E57CECB3BECEDACBE50B333BFCEA973BFD5A593BF666B97BF913993BFB2FC83BF9CD74DBF00F94FBE214350BD1B060F3E016E563E55D74C3F247E353FDE0D0D3F1081C73EAD7F603E0FF2F13D
+TABL=100
+
+[RAE1-1-2]
+UID=8294778
+Vdata in=0.11813747137785
+Varray len=100
+
+[RAE1-1-3]
+UID=8295008
+Vbypass=0
+Vfactor=0.0338380821049213
+
+[RAE1-1-4]
+UID=8295190
+saved in preset=1
+can be randomized=1
+once in poly=0
+INDEXvisible=1
+Vfader=1
+Vmin=0
+Vmax=1
+Tcaption=speed
+COLcolor=clDataFlow
+INDEXprec=2
+INDEXlogscale=0
+Vdefault val=0
+Vinc/dec val=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.058064516633749
+Vmouse y=0
+Vauto reset=0
+Vallow drop=0
+
+[RAE1-1-4faderSE]
+UID=8295296
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=56
+width=161
+height=28
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=3
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=1
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+text align=1
+show fader=1
+fader color=cl20
+dashed fader=1
+show cursor=1
+cursor color=clFaderCursor
+cursor width=4
+show value=1
+value font color=clFont
+value font size factor=1
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-1-4mouse dwnSE]
+UID=37049669
+
+[RAE1-1-4dbl clickSE]
+UID=37049747
+
+[RAE1-1-4mouse xSE]
+UID=37049813
+
+[RAE1-1-4mouse ySE]
+UID=37049881
+
+[RAE1-1-5]
+UID=8297574
+Vin=0
+VA=900
+VB=100
+Vout=100
+
+[RAE1-1-6]
+UID=8297809
+Vin=1
+Vout=0
+Vbypass=0
+
+[RAE1-1-7]
+UID=8297962
+VA=-0.0508452691137791
+VB=1
+
+[RAE1-1-8]
+UID=8298138
+saved in preset=1
+can be randomized=1
+once in poly=0
+INDEXvisible=1
+Vfader=1
+Vmin=1
+Vmax=10
+Tcaption=zoom
+COLcolor=clDataFlow
+INDEXprec=2
+INDEXlogscale=0
+Vdefault val=0
+Vinc/dec val=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.058064516633749
+Vmouse y=0
+Vauto reset=0
+Vallow drop=0
+
+[RAE1-1-8faderSE]
+UID=8298235
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=28
+width=161
+height=28
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=3
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=1
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+text align=1
+show fader=1
+fader color=cl20
+dashed fader=1
+show cursor=1
+cursor color=clFaderCursor
+cursor width=4
+show value=1
+value font color=clFont
+value font size factor=1
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-1-8mouse dwnSE]
+UID=37054615
+
+[RAE1-1-8dbl clickSE]
+UID=37054685
+
+[RAE1-1-8mouse xSE]
+UID=37054749
+
+[RAE1-1-8mouse ySE]
+UID=37054815
+
+[RAE1-1-9]
+UID=8300486
+Vbypass=0
+
+[RAE1-1-10]
+UID=8300652
+Vbypass=0
+
+[RAE1-1-CPSE]
+enabled=1
+on top=0
+opacity=1
+left=0
+top=28
+width=110
+height=70
+zoom scale=1
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clVeryLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clDataFlow
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+name=Oscilloscope Audio
+saved in preset=1
+can be randomized=1
+
+[RAE1-1-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-1-CPTOOLBARTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-2]
+UID=5874151
+
+[RAE1-3]
+UID=59019049
+
+[RAE1-4]
+UID=66207727
+name=Oscilloscope Audio
+nb polyphony=1
+can be randomized=1
+saved in preset=1
+Vfader=1
+INDEXvisible=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.0057471264153719
+Vmouse y=0.27142858505249
+NBCLONES=1
+
+[RAE1-4faderSE]
+UID=8295296
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=56
+width=161
+height=28
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=3
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=1
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+text align=1
+show fader=1
+fader color=cl20
+dashed fader=1
+show cursor=1
+cursor color=clFaderCursor
+cursor width=4
+show value=1
+value font color=clFont
+value font size factor=1
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-4mouse dwnSE]
+UID=66208228
+
+[RAE1-4dbl clickSE]
+UID=66208274
+
+[RAE1-4mouse xSE]
+UID=66208323
+
+[RAE1-4mouse ySE]
+UID=66208372
+
+[RAE1-4CTRLSE]
+enabled=1
+on top=0
+opacity=1
+left=175
+top=28
+width=110
+height=70
+zoom scale=1
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clVeryLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clDataFlow
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+name=Oscilloscope Audio
+saved in preset=1
+can be randomized=1
+
+[RAE1-4CTRL]
+UID=66204155
+VISIBLE=0
+MINIMIZED=0
+
+[RAE1-4CTRLTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-4CTRLTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-4-]
+PATCHTYPE=9
+VERSION=73
+FNAM=C:\Hollyhock\Resources\Modules\All Modules\Audio\Oscilloscope Audio.pat
+ORIGINDEVICE=
+NBPG=11
+OFFSETX=0
+OFFSETY=0
+UID=66924268
+ID0=1
+L0=597.375
+T0=10.45703125
+QIDX1=1
+ID1=270
+L1=1236
+T1=-24
+ID2=136
+L2=1006
+T2=66
+ID3=230
+L3=728
+T3=36
+ID4=3
+L4=617
+T4=153
+ID5=73
+L5=848
+T5=117
+ID6=290
+L6=726
+T6=134
+ID7=38
+L7=848
+T7=56
+ID8=3
+L8=618
+T8=119
+ID9=138
+L9=911.99609375
+T9=37.12109375
+ID10=138
+L10=1113
+T10=92
+C0=0A00020001002400
+CSRCNAME0=ARRAY OUT
+CTARGNAME0=VALUES
+C1=0500030002000100
+CSRCNAME1=OUT
+CTARGNAME1=ARRAY LEN MAX
+C2=0900020002000000
+CSRCNAME2=ARRAY OUT
+CTARGNAME2=DATA IN
+C3=0000000003000100
+CSRCNAME3=AUDIO 1
+CTARGNAME3=ARRAY IN
+C4=0600010005000000
+CSRCNAME4=OUT
+CTARGNAME4=IN
+C5=0400010006000000
+CSRCNAME5=FADER 1
+CTARGNAME5=IN
+C6=0300020007000000
+CSRCNAME6=ARRAY OUT
+CTARGNAME6=A
+C7=0800010007000100
+CSRCNAME7=FADER 2
+CTARGNAME7=B
+C8=0700020009000100
+CSRCNAME8=OUT
+CTARGNAME8=ARRAY IN
+C9=020002000A000100
+CSRCNAME9=ARRAY OUT
+CTARGNAME9=ARRAY IN
+NBCO=10
+
+[RAE1-4-PASE]
+name=Oscilloscope Audio
+saved in preset=1
+can be randomized=1
+enabled=1
+on top=0
+opacity=1
+left=175
+top=28
+width=110
+height=70
+zoom scale=1
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clVeryLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clDataFlow
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[RAE1-4-0]
+UID=8291136
+once in poly=0
+
+[RAE1-4-1]
+UID=37093301
+saved in preset=1
+can be randomized=1
+INDEXvisible=1
+Vout=-0.856541872024536
+Vmin=-1
+Vmax=1
+INDEXsync=0
+Vnum=100
+Vlen=2000
+Vreset val=0
+Vno repeat=0
+Vlock=0
+INDEXprec=2
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.32026144862175
+Vmouse y=1
+Vallow drop=0
+
+[RAE1-4-1step posSE]
+UID=8292533
+
+[RAE1-4-1valuesSE]
+UID=8292498
+
+[RAE1-4-1mouse dwnSE]
+UID=37045110
+
+[RAE1-4-1dbl clickSE]
+UID=37045187
+
+[RAE1-4-1mouse xSE]
+UID=37045258
+
+[RAE1-4-1mouse ySE]
+UID=37045329
+
+[RAE1-4-1CTRLSE]
+UID=8292741
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=91
+width=161
+height=63
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=4
+rounded=0
+round size=0
+show caption=0
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=0
+show header=0
+header height=20
+header color=clControlBorder
+show toolbar=1
+toolbar size=16
+step color=clButton
+big step color=clDataFlow
+big step interval=0
+show step border=1
+step border color=clDataFlow
+line color=cl20
+line width=1
+mode fill=0
+fill color=clButton
+show grid=1
+grid color=clStepGridLite
+full grid size=1
+V divisions=0
+H divisions=0
+show cursor=1
+cursor color=clCursor
+cursor width=2
+horizotal scale=0
+vertical scale=0
+
+[RAE1-4-1CTRL]
+UID=8292741
+VISIBLE=0
+MINIMIZED=0
+MIN=-1
+MAX=1
+TABV=54465BBF6E71B4BEE03352BE1E2BDBBD401E1CBD7FE7E9BD033415BE96E58BBE5DCEDFBEB0B512BF734B3BBF7A4837BE45E9EBBD339306BD4969423EEE85D33EF2E1823FC0ED943FACD49A3F78DA993F0B9C8A3FE20F513FD499EF3EF9C5963D889B92BE232B19BF514360BF392E86BF132985BF242F82BF0F1164BF7E70B6BEC59472BE673F8CBD3C2052BD6B515FBDC18E1ABEE7C995BE18332E3E2A73703DE8D40EBD7984853BFE8FE73CAAAF093E0A38A13E2ED6653FF623843F9F7D903F1F3A8C3F5AE6813F89793C3F8D42DC3EDC13A23D08E79CBECAF31EBFD94767BFEF248DBF41E591BF44F48EBF16A680BF34AACCBE305F5FBE507438BD4863923D2044AF3DAAFF6D3DDFAF0B3FDD80CD3E6417813EAA7B123E697C863DEBF8B43D0A08D63DDB40753EE744BC3EF4D45E3FBE70793FA0B0723F2C0F573F3966203F42BDA93EB8E79F3C4D87B2BEAF1334BF933778BFDF9B94BFFA4E9EBFF62795BF85BC86BFBA7D5BBF92A860BEFC632CBD245CE83D92C0553E449C513F5BF33A3FD9350F3F1821D13E1A0D7C3E4672023E
+TABL=100
+
+[RAE1-4-1LINESSE]
+UID=8292741
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=91
+width=161
+height=63
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=4
+rounded=0
+round size=0
+show caption=0
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=0
+show header=0
+header height=20
+header color=clControlBorder
+show toolbar=1
+toolbar size=16
+step color=clButton
+big step color=clDataFlow
+big step interval=0
+show step border=1
+step border color=clDataFlow
+line color=cl20
+line width=1
+mode fill=0
+fill color=clButton
+show grid=1
+grid color=clStepGridLite
+full grid size=1
+V divisions=0
+H divisions=0
+show cursor=1
+cursor color=clCursor
+cursor width=2
+horizotal scale=0
+vertical scale=0
+
+[RAE1-4-1LINES]
+UID=8292741
+VISIBLE=0
+MINIMIZED=0
+MIN=-1
+MAX=1
+TABV=54465BBF6E71B4BEE03352BE1E2BDBBD401E1CBD7FE7E9BD033415BE96E58BBE5DCEDFBEB0B512BF734B3BBF7A4837BE45E9EBBD339306BD4969423EEE85D33EF2E1823FC0ED943FACD49A3F78DA993F0B9C8A3FE20F513FD499EF3EF9C5963D889B92BE232B19BF514360BF392E86BF132985BF242F82BF0F1164BF7E70B6BEC59472BE673F8CBD3C2052BD6B515FBDC18E1ABEE7C995BE18332E3E2A73703DE8D40EBD7984853BFE8FE73CAAAF093E0A38A13E2ED6653FF623843F9F7D903F1F3A8C3F5AE6813F89793C3F8D42DC3EDC13A23D08E79CBECAF31EBFD94767BFEF248DBF41E591BF44F48EBF16A680BF34AACCBE305F5FBE507438BD4863923D2044AF3DAAFF6D3DDFAF0B3FDD80CD3E6417813EAA7B123E697C863DEBF8B43D0A08D63DDB40753EE744BC3EF4D45E3FBE70793FA0B0723F2C0F573F3966203F42BDA93EB8E79F3C4D87B2BEAF1334BF933778BFDF9B94BFFA4E9EBFF62795BF85BC86BFBA7D5BBF92A860BEFC632CBD245CE83D92C0553E449C513F5BF33A3FD9350F3F1821D13E1A0D7C3E4672023E
+TABL=100
+
+[RAE1-4-2]
+UID=8294778
+Vdata in=0.127389043569565
+Varray len=100
+
+[RAE1-4-3]
+UID=8295008
+Vbypass=0
+Vfactor=0.0338380821049213
+
+[RAE1-4-4]
+UID=8295190
+saved in preset=1
+can be randomized=1
+once in poly=0
+INDEXvisible=1
+Vfader=1
+Vmin=0
+Vmax=1
+Tcaption=speed
+COLcolor=clDataFlow
+INDEXprec=2
+INDEXlogscale=0
+Vdefault val=0
+Vinc/dec val=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vauto reset=0
+Vallow drop=0
+
+[RAE1-4-4faderSE]
+UID=8295296
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=56
+width=161
+height=28
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=3
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=1
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+text align=1
+show fader=1
+fader color=cl20
+dashed fader=1
+show cursor=1
+cursor color=clFaderCursor
+cursor width=4
+show value=1
+value font color=clFont
+value font size factor=1
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-4-4mouse dwnSE]
+UID=37049669
+
+[RAE1-4-4dbl clickSE]
+UID=37049747
+
+[RAE1-4-4mouse xSE]
+UID=37049813
+
+[RAE1-4-4mouse ySE]
+UID=37049881
+
+[RAE1-4-5]
+UID=8297574
+Vin=0
+VA=900
+VB=100
+Vout=100
+
+[RAE1-4-6]
+UID=8297809
+Vin=1
+Vout=0
+Vbypass=0
+
+[RAE1-4-7]
+UID=8297962
+VA=-0.0420875400304794
+VB=1
+
+[RAE1-4-8]
+UID=8298138
+saved in preset=1
+can be randomized=1
+once in poly=0
+INDEXvisible=1
+Vfader=1
+Vmin=1
+Vmax=10
+Tcaption=zoom
+COLcolor=clDataFlow
+INDEXprec=2
+INDEXlogscale=0
+Vdefault val=0
+Vinc/dec val=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0.954545438289642
+Vauto reset=0
+Vallow drop=0
+
+[RAE1-4-8faderSE]
+UID=8298235
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=28
+width=161
+height=28
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=3
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=1
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+text align=1
+show fader=1
+fader color=cl20
+dashed fader=1
+show cursor=1
+cursor color=clFaderCursor
+cursor width=4
+show value=1
+value font color=clFont
+value font size factor=1
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-4-8mouse dwnSE]
+UID=37054615
+
+[RAE1-4-8dbl clickSE]
+UID=37054685
+
+[RAE1-4-8mouse xSE]
+UID=37054749
+
+[RAE1-4-8mouse ySE]
+UID=37054815
+
+[RAE1-4-9]
+UID=8300486
+Vbypass=0
+
+[RAE1-4-10]
+UID=8300652
+Vbypass=0
+
+[RAE1-4-CPSE]
+enabled=1
+on top=0
+opacity=1
+left=175
+top=28
+width=110
+height=70
+zoom scale=1
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clVeryLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clDataFlow
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+name=Oscilloscope Audio
+saved in preset=1
+can be randomized=1
+
+[RAE1-4-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-4-CPTOOLBARTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-5]
+UID=17817980
+Vbypass=0
+Vgain=0
+Vmute=0
+Vsmooth=1
+INDEXsmooth speed=2
+
+[RAE1-6]
+UID=97623937
+Vfrequency=55.5041618347168
+Vamplitude=0.300000011920929
+Vsmooth amplitude=1
+INDEXtype=3
+
+[RAE1-7]
+UID=39753919
+Von=1
+Vout=55.5041618347168
+INDEXsynchro=0
+Vfreq=0.0917509943246841
+Vmin=55
+Vmax=57
+INDEXtype=0
+Vphase=0
+
+[RAE1-8]
+UID=96393811
+Von=1
+Vout=105.507797241211
+INDEXsynchro=0
+Vfreq=0.23567359149456
+Vmin=105
+Vmax=109
+INDEXtype=0
+Vphase=0
+
+[RAE1-9]
+UID=16379770
+Vfrequency=105.507797241211
+Vamplitude=0.5
+Vsmooth amplitude=1
+INDEXtype=0
+
+[RAE1-10]
+UID=65120524
+Vfrequency=55.5041618347168
+Vamplitude=0.5
+Vsmooth amplitude=1
+INDEXtype=0
+
+[RAE1-11]
+UID=16170781
+saved in preset=1
+can be randomized=1
+calc plot bin's if invisible=0
+INDEXvisible=1
+Vbypass=0
+Vgain=0
+Vfreq=3165.42309570313
+VQ=2.80252861976624
+INDEXtype=1
+Vrange freq min=50
+Vrange freq max=20000
+Vrange Q min=0.300000011920929
+Vrange Q max=400
+Vbin's size=64
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.169934645295143
+Vmouse y=0
+Vallow drop=0
+
+[RAE1-11mouse dwnSE]
+UID=41438560
+
+[RAE1-11dbl clickSE]
+UID=41438597
+
+[RAE1-11mouse xSE]
+UID=41438635
+
+[RAE1-11mouse ySE]
+UID=41438669
+
+[RAE1-11CTRLSE]
+UID=41439024
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=189
+width=161
+height=77
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=4
+rounded=1
+round size=4
+show caption=0
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clControlBorder
+show toolbar=1
+toolbar size=16
+step color=1148487470
+big step color=clDataFlow
+big step interval=0
+show step border=1
+step border color=clDataFlow
+line color=clAudioFlow
+line width=1
+mode fill=1
+fill color=1148487470
+show grid=1
+grid color=1148487470
+full grid size=1
+V divisions=2
+H divisions=4
+show selector=1
+slector color=clAudioFlow
+
+[RAE1-11CTRL]
+UID=41439024
+VISIBLE=0
+MINIMIZED=0
+MIN=0
+MAX=1
+TABV=85C134340A3BF13464498F3576441A3687219936BC230E3715897937FBF9D0378A252838A4B882384D47C53806071139D861503987AE923992C5CA39B5E1093A2CC5383A1C52743ACE959F3A522FCE3ADADB033B2D1A273B7CFB513B08EA823B0015A23B635EC73B54C7F33B093C143C9263333C2A21583C80AE813CE9139B3C26E2B83C97D9DB3CD670023DCB891A3D4EE4363DE156583D77EF7F3D4A83973D4CADB33DC49BD53DF4D8FE3DE0BF183EBC3F383E0202603ED784893E64DAAA3EA315D73E1002093FFB022F3F8AE9593FAAC57A3F0000803F72946D3FFB13543F1DD63C3FDF0B2A3F05571B3F11DD0F3F06DA063FE770FF3E4217F43EF00AEB3E
+TABL=64
+
+[RAE1-11CTRLTBLOCKSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-12]
+UID=22767287
+Von=1
+Vout=3165.42309570313
+INDEXsynchro=0
+Vfreq=0.0405696630477905
+Vmin=1000
+Vmax=10000
+INDEXtype=0
+Vphase=0
+
+[RAE1-13]
+UID=14026982
+Von=1
+Vout=2.80252861976624
+INDEXsynchro=0
+Vfreq=0.105052165687084
+Vmin=1
+Vmax=3
+INDEXtype=0
+Vphase=0
+
+[RAE1-14]
+UID=57028617
+Von=1
+Vout=0.041990153491497
+INDEXsynchro=0
+Vfreq=1
+Vmin=0.0199999995529652
+Vmax=0.0500000007450581
+INDEXtype=6
+Vphase=0
+
+[RAE1-15]
+UID=55012357
+Vbypass=0
+Vin=0.041990153491497
+Vout=0.0405696630477905
+Vsmooth=2000
+
+[RAE1-16]
+UID=78896814
+Von=1
+Vout=0.105390310287476
+INDEXsynchro=0
+Vfreq=1
+Vmin=0.0199999995529652
+Vmax=0.5
+INDEXtype=6
+Vphase=0
+
+[RAE1-17]
+UID=78897370
+Vbypass=0
+Vin=0.105390310287476
+Vout=0.105052165687084
+Vsmooth=2000
+
+[RAE1-18]
+UID=33896674
+Von=1
+Vout=0.096263125538826
+INDEXsynchro=0
+Vfreq=1
+Vmin=0.0199999995529652
+Vmax=0.5
+INDEXtype=6
+Vphase=0
+
+[RAE1-19]
+UID=33897226
+Vbypass=0
+Vin=0.096263125538826
+Vout=0.0917509943246841
+Vsmooth=2000
+
+[RAE1-20]
+UID=2632781
+Von=1
+Vout=0.242418244481087
+INDEXsynchro=0
+Vfreq=1
+Vmin=0.00999999977648258
+Vmax=0.5
+INDEXtype=6
+Vphase=0
+
+[RAE1-21]
+UID=2633341
+Vbypass=0
+Vin=0.242418244481087
+Vout=0.23567359149456
+Vsmooth=2000
+
+[RAE1-22]
+UID=63268057
+Vfrequency=106.145355224609
+Vamplitude=0.200000002980232
+Vsmooth amplitude=1
+INDEXtype=5
+
+[RAE1-23]
+UID=28279250
+saved in preset=1
+can be randomized=1
+calc plot bin's if invisible=0
+INDEXvisible=1
+Vbypass=0
+Vgain=0
+Vfreq=154.474609375
+VQ=0.666842341423035
+INDEXtype=0
+Vrange freq min=50
+Vrange freq max=20000
+Vrange Q min=0.300000011920929
+Vrange Q max=400
+Vbin's size=64
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0
+Vmouse y=0
+Vallow drop=0
+
+[RAE1-23mouse dwnSE]
+UID=41438560
+
+[RAE1-23dbl clickSE]
+UID=41438597
+
+[RAE1-23mouse xSE]
+UID=41438635
+
+[RAE1-23mouse ySE]
+UID=41438669
+
+[RAE1-23CTRLSE]
+UID=28279099
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=182
+top=189
+width=161
+height=77
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=4
+rounded=1
+round size=4
+show caption=0
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clControlBorder
+show toolbar=1
+toolbar size=16
+step color=1148487470
+big step color=clDataFlow
+big step interval=0
+show step border=1
+step border color=clDataFlow
+line color=clAudioFlow
+line width=1
+mode fill=1
+fill color=1148487470
+show grid=1
+grid color=1148487470
+full grid size=1
+V divisions=2
+H divisions=4
+show selector=1
+slector color=clAudioFlow
+
+[RAE1-23CTRL]
+UID=28279099
+VISIBLE=0
+MINIMIZED=0
+MIN=0
+MAX=1
+TABV=FB4B693F044C693F164C693F3C4C693F804C693FF64C693FB74D693FE64E693FAF50693F4E53693F0957693F3F5C693F5A63693FDF6C693F7079693FC389693FB49E693F3DB9693F82DA693FCD036A3F92366A3F75746A3F47BF6A3F0E196B3FFE836B3F7D026C3F15976C3F79446D3F6D0D6E3FAEF46E3FD1FC6F3F1628713F0778723F0EED733FC785753F093E773F7D0D793FBBE57A3F9AAF7C3FCE477E3FB87A7F3F0000803F30777F3FEC677D3F6A49793F6B95723F70E7683FB9215C3F2C884C3F14C03A3F8DAF273FB44A143F9365013FEE34DF3E238CBE3EF522A13E5E02873E700C603EAAE5373E0F07153E3BCEED3D580CBA3DB3E68D3DAB3A513D
+TABL=64
+
+[RAE1-23CTRLTBLOCKSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-24]
+UID=38261957
+Von=1
+Vout=154.474609375
+INDEXsynchro=0
+Vfreq=0.0258939657360315
+Vmin=50
+Vmax=10000
+INDEXtype=0
+Vphase=0
+
+[RAE1-25]
+UID=38262965
+Von=1
+Vout=0.0231010876595974
+INDEXsynchro=0
+Vfreq=1
+Vmin=0.0199999995529652
+Vmax=0.0500000007450581
+INDEXtype=6
+Vphase=0
+
+[RAE1-26]
+UID=38263487
+Vbypass=0
+Vin=0.0231010876595974
+Vout=0.0258939657360315
+Vsmooth=2000
+
+[RAE1-27]
+UID=70767096
+Von=1
+Vout=0.666842341423035
+INDEXsynchro=0
+Vfreq=0.330977320671082
+Vmin=0.600000023841858
+Vmax=1
+INDEXtype=0
+Vphase=0
+
+[RAE1-28]
+UID=70768124
+Von=1
+Vout=0.313623875379562
+INDEXsynchro=0
+Vfreq=1
+Vmin=0.0199999995529652
+Vmax=0.5
+INDEXtype=6
+Vphase=0
+
+[RAE1-29]
+UID=70768658
+Vbypass=0
+Vin=0.313623875379562
+Vout=0.330977320671082
+Vsmooth=2000
+
+[RAE1-30]
+UID=11612133
+name=Reverb
+nb polyphony=1
+can be randomized=1
+saved in preset=1
+Vfader=0
+Vswitch=0
+INDEXvisible=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.37569060921669
+Vmouse y=0
+NBCLONES=1
+
+[RAE1-30faderSE]
+UID=15010143
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=63
+top=21
+width=56
+height=56
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=1
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clControlBorder
+border width=1
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.699999988079071
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+show value=1
+value font color=clFont
+value font size factor=0.699999988079071
+touch hi precision=1
+precision factor=8
+show knob=1
+draw center circle=1
+design=0
+knob color=cl14
+back knob cursor color=clKnobCursorBack
+text align=2
+vertical mouse=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-30switchSE]
+UID=88364565
+edit enabled=0
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=140
+width=56
+height=14
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+frames count=0
+frames alignment=0
+show border=0
+border width=1
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.899999976158142
+caption align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+fit size=1
+ON color=cl14
+OFF color=1147941760
+font ON color=clFont
+font OFF color=clFont
+border ON color=clControlBorder
+border OFF color=clControlBorder
+show small led=1
+small led size=8
+small led ON color=cl14
+small led OFF color=cl1
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RAE1-30mouse dwnSE]
+UID=11612587
+
+[RAE1-30dbl clickSE]
+UID=11612633
+
+[RAE1-30mouse xSE]
+UID=11612674
+
+[RAE1-30mouse ySE]
+UID=11612728
+
+[RAE1-30CTRLSE]
+enabled=1
+on top=0
+opacity=1
+left=84
+top=273
+width=110
+height=70
+zoom scale=1
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clVeryLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=cl14
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clDataFlow
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=240
+WidthBeforeMinimize=174
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+name=Reverb
+saved in preset=1
+can be randomized=1
+
+[RAE1-30CTRL]
+UID=11608625
+VISIBLE=0
+MINIMIZED=0
+
+[RAE1-30CTRLTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-30CTRLTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-30-]
+PATCHTYPE=9
+VERSION=73
+FNAM=C:\Hollyhock\Usine Library\Audio FX\Reverb\Reverb.pat
+ORIGINDEVICE=
+NBPG=14
+OFFSETX=-484
+OFFSETY=-61
+UID=13061833
+QIDX0=1
+ID0=95
+L0=797
+T0=379
+USR0=C:\Hollyhock\Resources\Modules\All Modules\Audio\Delay, Reverb, Phaser, Chorus\Reverb.usr-win64
+ID1=1
+L1=293
+T1=273
+ID2=1
+L2=273
+T2=310
+ID3=9
+L3=413
+T3=371
+ID4=175
+L4=440
+T4=450
+ID5=175
+L5=443
+T5=500
+ID6=175
+L6=451
+T6=585
+ID7=2
+L7=1154
+T7=359
+ID8=2
+L8=1155
+T8=412
+QIDX9=1
+ID9=332
+L9=979
+T9=382
+ID10=175
+L10=462
+T10=653
+QIDX11=1
+ID11=261
+L11=754
+T11=219
+ID12=175
+L12=559
+T12=299
+ID13=175
+L13=455
+T13=716
+C0=0100000000000000
+CSRCNAME0=AUDIO 1
+CTARGNAME0=IN  1
+C1=0200000000000100
+CSRCNAME1=AUDIO 2
+CTARGNAME1=IN  2
+C2=0300010000000400
+CSRCNAME2=SWITCH 1
+CTARGNAME2=FREEZE
+C3=0400010000000500
+CSRCNAME3=KNOB 2
+CTARGNAME3=ROOM SIZE
+C4=0500010000000600
+CSRCNAME4=KNOB 3
+CTARGNAME4=DAMPING
+C5=0600010000000700
+CSRCNAME5=KNOB 4
+CTARGNAME5=CHANNELS SEPARATION
+C6=0D00010000000800
+CSRCNAME6=KNOB 7
+CTARGNAME6=WET LEVEL
+C7=0900030007000000
+CSRCNAME7=OUT 1
+CTARGNAME7=AUDIO 1
+C8=0B00030007000000
+CSRCNAME8=OUT 1
+CTARGNAME8=AUDIO 1
+C9=0900040008000000
+CSRCNAME9=OUT 2
+CTARGNAME9=AUDIO 2
+C10=0B00040008000000
+CSRCNAME10=OUT 2
+CTARGNAME10=AUDIO 2
+C11=0000020009000100
+CSRCNAME11=OUT  1
+CTARGNAME11=IN 1
+C12=0000030009000200
+CSRCNAME12=OUT  2
+CTARGNAME12=IN 2
+C13=0A00010009000500
+CSRCNAME13=KNOB 5
+CTARGNAME13=FREQ
+C14=010000000B000100
+CSRCNAME14=AUDIO 1
+CTARGNAME14=IN 1
+C15=020000000B000200
+CSRCNAME15=AUDIO 2
+CTARGNAME15=IN 2
+C16=0C0001000B000500
+CSRCNAME16=KNOB 6
+CTARGNAME16=GAIN
+NBCO=17
+
+[RAE1-30-PASE]
+name=Reverb
+saved in preset=1
+can be randomized=1
+enabled=1
+on top=0
+opacity=1
+left=84
+top=273
+width=110
+height=70
+zoom scale=1
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clVeryLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=cl14
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clDataFlow
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=240
+WidthBeforeMinimize=174
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[RAE1-30-0]
+UID=46887586
+saved in preset=1
+Vin  1=-0.0560901388525963
+Vin  2=-0.0560901388525963
+Vout  1=-0.0128998607397079
+Vout  2=-0.0275968573987484
+Vfreeze=0
+Vroom size=93.089973449707
+Vdamping=11.1111106872559
+Vchannels separation=100
+Vwet level=0
+Vdry level=-80
+
+[RAE1-30-0SE]
+UID=46887586
+saved in preset=1
+
+[RAE1-30-1]
+UID=17320496
+once in poly=0
+
+[RAE1-30-2]
+UID=43587584
+once in poly=0
+
+[RAE1-30-3]
+UID=88364345
+saved in preset=1
+can be randomized=1
+once in poly=0
+INDEXvisible=1
+Vswitch=0
+Tcaption=freeze
+COLcolor=4285281152
+VON value=1
+VOFF value=0
+Vnull evt if OFF=0
+INDEXgroup=0
+Vat least one=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.0740740746259689
+Vmouse y=0.16666667163372
+Vallow drop=0
+
+[RAE1-30-3switchSE]
+UID=88364565
+edit enabled=0
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=140
+width=56
+height=14
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+frames count=0
+frames alignment=0
+show border=0
+border width=1
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.899999976158142
+caption align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+fit size=1
+ON color=cl14
+OFF color=1147941760
+font ON color=clFont
+font OFF color=clFont
+border ON color=clControlBorder
+border OFF color=clControlBorder
+show small led=1
+small led size=8
+small led ON color=cl14
+small led OFF color=cl1
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RAE1-30-3mouse dwnSE]
+UID=88365330
+
+[RAE1-30-3dbl clickSE]
+UID=88365368
+
+[RAE1-30-3mouse xSE]
+UID=88365406
+
+[RAE1-30-3mouse ySE]
+UID=88365444
+
+[RAE1-30-4]
+UID=11461308
+saved in preset=1
+can be randomized=1
+once in poly=0
+INDEXvisible=1
+Vfader=93.089973449707
+Vmin=0.100000001490116
+Vmax=100
+Tcaption=room size
+Tsymbol=%
+COLcolor=clDataFlow
+INDEXprec=2
+INDEXlogscale=2
+Vdefault val=95
+Vinc/dec val=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.722222208976746
+Vmouse y=0
+Vauto reset=0
+Vallow drop=0
+
+[RAE1-30-4faderSE]
+UID=11461606
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=119
+top=21
+width=56
+height=56
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=1
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clControlBorder
+border width=1
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.699999988079071
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+show value=1
+value font color=clFont
+value font size factor=0.699999988079071
+touch hi precision=1
+precision factor=8
+show knob=1
+draw center circle=1
+design=0
+knob color=cl14
+back knob cursor color=clKnobCursorBack
+text align=2
+vertical mouse=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-30-4mouse dwnSE]
+UID=11462205
+
+[RAE1-30-4dbl clickSE]
+UID=11462252
+
+[RAE1-30-4mouse xSE]
+UID=11462293
+
+[RAE1-30-4mouse ySE]
+UID=11462325
+
+[RAE1-30-5]
+UID=48131659
+saved in preset=1
+can be randomized=1
+once in poly=0
+INDEXvisible=1
+Vfader=11.1111106872559
+Vmin=0
+Vmax=100
+Tcaption=damping
+Tsymbol=%
+COLcolor=clDataFlow
+INDEXprec=2
+INDEXlogscale=0
+Vdefault val=75
+Vinc/dec val=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.0185185186564922
+Vmouse y=0.666666686534882
+Vauto reset=0
+Vallow drop=0
+
+[RAE1-30-5faderSE]
+UID=48131876
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=77
+width=56
+height=56
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=1
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clControlBorder
+border width=1
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.699999988079071
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+show value=1
+value font color=clFont
+value font size factor=0.699999988079071
+touch hi precision=1
+precision factor=8
+show knob=1
+draw center circle=1
+design=0
+knob color=cl14
+back knob cursor color=clKnobCursorBack
+text align=2
+vertical mouse=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-30-5mouse dwnSE]
+UID=48132382
+
+[RAE1-30-5dbl clickSE]
+UID=48132423
+
+[RAE1-30-5mouse xSE]
+UID=48132461
+
+[RAE1-30-5mouse ySE]
+UID=48132490
+
+[RAE1-30-6]
+UID=12209042
+saved in preset=1
+can be randomized=1
+once in poly=0
+INDEXvisible=1
+Vfader=100
+Vmin=0
+Vmax=100
+Tcaption=width
+Tsymbol=%
+COLcolor=clDataFlow
+INDEXprec=2
+INDEXlogscale=0
+Vdefault val=50
+Vinc/dec val=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.0185185186564922
+Vmouse y=0.111111111938953
+Vauto reset=0
+Vallow drop=0
+
+[RAE1-30-6faderSE]
+UID=12209271
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=63
+top=77
+width=56
+height=56
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=1
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clControlBorder
+border width=1
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.699999988079071
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+show value=1
+value font color=clFont
+value font size factor=0.699999988079071
+touch hi precision=1
+precision factor=8
+show knob=1
+draw center circle=1
+design=0
+knob color=cl14
+back knob cursor color=clKnobCursorBack
+text align=2
+vertical mouse=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-30-6mouse dwnSE]
+UID=12209843
+
+[RAE1-30-6dbl clickSE]
+UID=12209890
+
+[RAE1-30-6mouse xSE]
+UID=12209928
+
+[RAE1-30-6mouse ySE]
+UID=12209960
+
+[RAE1-30-7]
+UID=83080468
+once in poly=0
+
+[RAE1-30-8]
+UID=8144446
+once in poly=0
+
+[RAE1-30-9]
+UID=51057197
+Vbypass=0
+Vfreq=26
+INDEXtype=1
+
+[RAE1-30-10]
+UID=68814657
+saved in preset=1
+can be randomized=1
+once in poly=0
+INDEXvisible=1
+Vfader=26
+Vmin=20
+Vmax=20000
+Tcaption=low cut freq
+Tsymbol=Hz
+COLcolor=clDataFlow
+INDEXprec=0
+INDEXlogscale=1
+Vdefault val=0
+Vinc/dec val=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.685185194015503
+Vmouse y=0
+Vauto reset=0
+Vallow drop=0
+
+[RAE1-30-10faderSE]
+UID=68814886
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=119
+top=77
+width=56
+height=56
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=1
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clControlBorder
+border width=1
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.699999988079071
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+show value=1
+value font color=clFont
+value font size factor=0.699999988079071
+touch hi precision=1
+precision factor=8
+show knob=1
+draw center circle=1
+design=0
+knob color=cl14
+back knob cursor color=clKnobCursorBack
+text align=2
+vertical mouse=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-30-10mouse dwnSE]
+UID=68815560
+
+[RAE1-30-10dbl clickSE]
+UID=68815676
+
+[RAE1-30-10mouse xSE]
+UID=68815714
+
+[RAE1-30-10mouse ySE]
+UID=68815746
+
+[RAE1-30-11]
+UID=11494007
+Vbypass=0
+Vgain=-15.0153884887695
+Vmute=0
+Vsmooth=1
+INDEXsmooth speed=2
+
+[RAE1-30-12]
+UID=9581077
+saved in preset=0
+can be randomized=1
+once in poly=0
+INDEXvisible=1
+Vfader=-15.0153884887695
+Vmin=-80
+Vmax=12
+Tcaption=dry
+Tsymbol=dB
+COLcolor=clDataFlow
+INDEXprec=1
+INDEXlogscale=2
+Vdefault val=0
+Vinc/dec val=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.462962955236435
+Vmouse y=0.0185185186564922
+Vauto reset=0
+Vallow drop=0
+
+[RAE1-30-12faderSE]
+UID=9581282
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=7
+top=21
+width=56
+height=56
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=1
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clControlBorder
+border width=1
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.699999988079071
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+show value=1
+value font color=clFont
+value font size factor=0.699999988079071
+touch hi precision=1
+precision factor=8
+show knob=1
+draw center circle=1
+design=0
+knob color=cl14
+back knob cursor color=clKnobCursorBack
+text align=2
+vertical mouse=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-30-12mouse dwnSE]
+UID=9581795
+
+[RAE1-30-12dbl clickSE]
+UID=9581839
+
+[RAE1-30-12mouse xSE]
+UID=9581880
+
+[RAE1-30-12mouse ySE]
+UID=9581915
+
+[RAE1-30-13]
+UID=15009932
+saved in preset=0
+can be randomized=1
+once in poly=0
+INDEXvisible=1
+Vfader=0
+Vmin=-80
+Vmax=12
+Tcaption=wet
+Tsymbol=dB
+COLcolor=clDataFlow
+INDEXprec=1
+INDEXlogscale=2
+Vdefault val=0
+Vinc/dec val=1
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.796296298503876
+Vmouse y=0
+Vauto reset=0
+Vallow drop=0
+
+[RAE1-30-13faderSE]
+UID=15010143
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=63
+top=21
+width=56
+height=56
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=1
+background color=clControlBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clControlBorder
+border width=1
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.699999988079071
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show poly order=1
+show value=1
+value font color=clFont
+value font size factor=0.699999988079071
+touch hi precision=1
+precision factor=8
+show knob=1
+draw center circle=1
+design=0
+knob color=cl14
+back knob cursor color=clKnobCursorBack
+text align=2
+vertical mouse=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RAE1-30-13mouse dwnSE]
+UID=15010652
+
+[RAE1-30-13dbl clickSE]
+UID=15010696
+
+[RAE1-30-13mouse xSE]
+UID=15010734
+
+[RAE1-30-13mouse ySE]
+UID=15010766
+
+[RAE1-30-CPSE]
+enabled=1
+on top=0
+opacity=1
+left=84
+top=273
+width=110
+height=70
+zoom scale=1
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clVeryLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=cl14
+border width=0
+rounded=0
+round size=0
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clDataFlow
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=240
+WidthBeforeMinimize=174
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+name=Reverb
+saved in preset=1
+can be randomized=1
+
+[RAE1-30-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-30-CPTOOLBARTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-CPSE]
+enabled=1
+on top=0
+opacity=1
+left=2
+top=85
+width=110
+height=70
+zoom scale=1
+transparent=0
+background color=clLiterPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clLiterPanelBack
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+name=patch
+where=0
+saved in preset=1
+can be randomized=1
+undo enabled=1
+shared=0
+presets panel=0
+
+[RAE1-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-CPTOOLBARTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE1-CPTOOLBARTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+[RAE2-]
+PATCHTYPE=0
+VERSION=73
+FNAM=GRevDly
+ORIGINDEVICE=
+NBPG=8
+OFFSETX=0
+OFFSETY=0
+UID=6588165
+ID0=7
+L0=200
+T0=200
+DLL0=C:\Hollyhock\Config\Plug-Ins\VST\GPlugins\GRevDly.plugin
+DLLCONTENT0=GRevDly,"C:\Program Files\Steinberg\Vstplugins\GPlugins\GRevDly.dll",67794162,VST
+ID1=9
+L1=50
+T1=150
+ID2=8
+L2=50
+T2=110
+ID3=1
+L3=50
+T3=200
+ID4=1
+L4=50
+T4=250
+ID5=2
+L5=400
+T5=250
+ID6=2
+L6=400
+T6=300
+ID7=5
+L7=50
+T7=300
+C0=0100010000000200
+CSRCNAME0=SWITCH 1
+CTARGNAME0=BYPASS
+C1=0200010000000000
+CSRCNAME1=BUTTON 2
+CTARGNAME1=SHOW EDITOR
+C2=0300000000000300
+CSRCNAME2=AUDIO 1
+CTARGNAME2=IN 1
+C3=0400000000000400
+CSRCNAME3=AUDIO 2
+CTARGNAME3=IN 2
+C4=0700000000000700
+CSRCNAME4=MIDI 1
+CTARGNAME4=MIDI IN
+C5=0000050005000000
+CSRCNAME5=OUT 1
+CTARGNAME5=AUDIO 1
+C6=0000060006000000
+CSRCNAME6=OUT 2
+CTARGNAME6=AUDIO 2
+NBCO=7
+
+[RAE2-PASE]
+name=GRevDly
+where=0
+saved in preset=1
+can be randomized=1
+undo enabled=1
+shared=0
+presets panel=0
+enabled=1
+on top=0
+opacity=1
+left=2
+top=529
+width=110
+height=70
+zoom scale=1
+transparent=0
+background color=clLiterPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clLiterPanelBack
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[RAE2-PRESETSSE]
+UID=85479788
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=3
+top=23
+width=161
+height=22
+zoom scale=1
+transparent=0
+background color=clMoreLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clMoreLitePanelBack
+show toolbar=1
+toolbar size=15
+minimized=1
+HeightBeforeMinimize=86
+WidthBeforeMinimize=161
+show border button=0
+button color=clControlBack
+button font color=clFont
+button border color=clControlBorder
+show cmd=1
+show border cmd=0
+cmd ON color=clURed
+cmd OFF color=clControlBack
+cmd font ON color=clFont
+cmd font OFF color=clFont
+cmd border ON color=clControlBorder
+cmd border OFF color=clControlBorder
+silent edit=0
+
+[RAE2-PRESETS]
+UID=85479788
+VISIBLE=0
+MINIMIZED=1
+CURRENT CAPTION=
+CURRENT NUM=0
+
+[RAE2-PRESETSTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE2-PRESETSTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE2-PRESETSTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE2-0]
+UID=6610166
+saved in preset=1
+Vvisible=0
+Vbypass=0
+Vin 1=-0.0508452691137791
+Vin 2=-0.0420875400304794
+Vout 1=-1.28132688999176
+Vout 2=-1.27125573158264
+INDEXprogram=0
+Vlatency=0
+Vsend to usine=1
+CHUNK=50473031000000008E010000F100000004000000030000000100000000000000020000006C03000043636E4B000000004678426B0000000167794162000004B00000000A000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000043636E4B000000004678436B0000000167794162000004B000000004456572696520496E73657274000000000000000000000000000000003F4EB8523E8147AE3F8000003EA8F5C343636E4B000000004678436B0000000167794162000004B000000004436C65616E20496E73657274000000000000000000000000000000003F3FADAB000000003F187D503F80000043636E4B000000004678436B0000000167794162000004B00000000443686F70707920496E736572740000000000000000000000000000003E7C2405000000003F187D503F80000043636E4B000000004678436B0000000167794162000004B00000000445657269652053656E640000000000000000000000000000000000003F3FADAB3F8000003F8000000000000043636E4B000000004678436B0000000167794162000004B000000004436C65616E2053656E640000000000000000000000000000000000003F3FADAB000000003F8000000000000043636E4B000000004678436B0000000167794162000004B00000000443686F7070792053656E6400000000000000000000000000000000003E7C2405000000003F8000000000000043636E4B000000004678436B0000000167794162000004B00000000444656661756C747300000000000000000000000000000000000000003EFEB6AC3EF286BD3F8000003F80000043636E4B000000004678436B0000000167794162000004B00000000444656661756C747300000000000000000000000000000000000000003EFEB6AC3EF286BD3F8000003F80000043636E4B000000004678436B0000000167794162000004B00000000444656661756C747300000000000000000000000000000000000000003EFEB6AC3EF286BD3F8000003F80000043636E4B000000004678436B0000000167794162000004B00000000444656661756C747300000000000000000000000000000000000000003EFEB6AC3EF286BD3F8000003F800000
+
+[RAE2-0SE]
+UID=6610166
+saved in preset=1
+
+[RAE2-1]
+UID=6898819
+saved in preset=1
+can be randomized=1
+INDEXvisible=1
+Vswitch=0
+Tcaption=bypass
+COLcolor=clSwitchOn
+VON value=1
+VOFF value=0
+Vnull evt if OFF=0
+INDEXgroup=0
+Vat least one=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.75
+Vmouse y=0
+Vallow drop=0
+
+[RAE2-1switchSE]
+UID=6899119
+edit enabled=0
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=3
+top=30
+width=70
+height=14
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+frames count=1
+frames alignment=0
+show border=0
+border width=1
+rounded=1
+round size=2
+show caption=1
+caption font color=clFont
+caption font size factor=0.899999976158142
+caption align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+fit size=1
+ON color=clSwitchOn
+OFF color=clControlBack
+font ON color=clFont
+font OFF color=clFont
+border ON color=clControlBorder
+border OFF color=clControlBorder
+show small led=1
+small led size=8
+small led ON color=cl7
+small led OFF color=cl8
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RAE2-1mouse dwnSE]
+UID=6900150
+
+[RAE2-1dbl clickSE]
+UID=6900215
+
+[RAE2-1mouse xSE]
+UID=6900248
+
+[RAE2-1mouse ySE]
+UID=6900282
+
+[RAE2-2]
+UID=6904830
+INDEXvisible=1
+Tcaption=show
+COLcolor=clControlBack
+VOFF value=0
+VON value=1
+Vnull evt if OFF=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.220588237047195
+Vmouse y=1
+Vallow drop=0
+
+[RAE2-2buttonSE]
+UID=6905008
+edit enabled=0
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=78
+top=30
+width=70
+height=14
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clButton
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clControlBorder
+border width=1
+rounded=1
+round size=2
+show caption=1
+caption font color=clFont
+caption font size factor=0.899999976158142
+caption align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+time code=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RAE2-2mouse dwnSE]
+UID=6905277
+
+[RAE2-2dbl clickSE]
+UID=6905318
+
+[RAE2-2mouse xSE]
+UID=6905352
+
+[RAE2-2mouse ySE]
+UID=6905393
+
+[RAE2-3]
+UID=6908836
+
+[RAE2-4]
+UID=6909406
+
+[RAE2-5]
+UID=6909964
+
+[RAE2-6]
+UID=6910498
+
+[RAE2-7]
+UID=6911197
+Vmsg=0
+Vcode1=0
+Vcode2=0
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+
+[RAE2-CPSE]
+enabled=1
+on top=0
+opacity=1
+left=2
+top=529
+width=110
+height=70
+zoom scale=1
+transparent=0
+background color=clLiterPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clLiterPanelBack
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+name=GRevDly
+where=0
+saved in preset=1
+can be randomized=1
+undo enabled=1
+shared=0
+presets panel=0
+
+[RAE2-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE2-CPTOOLBARTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE2-CPTOOLBARTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+[RAE3-]
+PATCHTYPE=0
+VERSION=73
+FNAM=GSpace
+ORIGINDEVICE=
+NBPG=8
+OFFSETX=0
+OFFSETY=0
+UID=56608911
+ID0=7
+L0=200
+T0=200
+DLL0=C:\Hollyhock\Config\Plug-Ins\VST\GPlugins\GSpace.plugin
+DLLCONTENT0=GSpace,"C:\Program Files\Steinberg\Vstplugins\GPlugins\GSpace.dll",6779426d,VST
+ID1=9
+L1=50
+T1=150
+ID2=8
+L2=50
+T2=110
+ID3=1
+L3=50
+T3=200
+ID4=1
+L4=50
+T4=250
+ID5=2
+L5=400
+T5=250
+ID6=2
+L6=400
+T6=300
+ID7=5
+L7=50
+T7=300
+C0=0100010000000200
+CSRCNAME0=SWITCH 1
+CTARGNAME0=BYPASS
+C1=0200010000000000
+CSRCNAME1=BUTTON 2
+CTARGNAME1=SHOW EDITOR
+C2=0300000000000300
+CSRCNAME2=AUDIO 1
+CTARGNAME2=IN 1
+C3=0400000000000400
+CSRCNAME3=AUDIO 2
+CTARGNAME3=IN 2
+C4=0700000000000700
+CSRCNAME4=MIDI 1
+CTARGNAME4=MIDI IN
+C5=0000050005000000
+CSRCNAME5=OUT 1
+CTARGNAME5=AUDIO 1
+C6=0000060006000000
+CSRCNAME6=OUT 2
+CTARGNAME6=AUDIO 2
+NBCO=7
+
+[RAE3-PASE]
+name=GSpace
+where=0
+saved in preset=1
+can be randomized=1
+undo enabled=1
+shared=0
+presets panel=0
+enabled=1
+on top=0
+opacity=1
+left=2
+top=602
+width=110
+height=70
+zoom scale=1
+transparent=0
+background color=clLiterPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clLiterPanelBack
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[RAE3-PRESETSSE]
+UID=40780185
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=3
+top=23
+width=161
+height=22
+zoom scale=1
+transparent=0
+background color=clMoreLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clMoreLitePanelBack
+show toolbar=1
+toolbar size=15
+minimized=1
+HeightBeforeMinimize=86
+WidthBeforeMinimize=161
+show border button=0
+button color=clControlBack
+button font color=clFont
+button border color=clControlBorder
+show cmd=1
+show border cmd=0
+cmd ON color=clURed
+cmd OFF color=clControlBack
+cmd font ON color=clFont
+cmd font OFF color=clFont
+cmd border ON color=clControlBorder
+cmd border OFF color=clControlBorder
+silent edit=0
+
+[RAE3-PRESETS]
+UID=40780185
+VISIBLE=0
+MINIMIZED=1
+CURRENT CAPTION=
+CURRENT NUM=0
+
+[RAE3-PRESETSTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE3-PRESETSTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE3-PRESETSTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE3-0]
+UID=56631642
+saved in preset=1
+Vvisible=0
+Vbypass=0
+Vin 1=-1.28132688999176
+Vin 2=-1.27125573158264
+Vout 1=-1.28014051914215
+Vout 2=-1.11592721939087
+INDEXprogram=0
+Vlatency=0
+Vsend to usine=1
+CHUNK=5047303100000000960100004301000001000000040000002405000043636E4B000000004678426B000000016779426D000004B00000000A000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000043636E4B000000004678436B000000016779426D000004B00000000F44656661756C747300000000000000000000000000000000000000003F0000003F0000003F0000003F1555553EF851EC3F800000000000003F8000003E86E1FD3F23ED9E3F4000003F4000003F4000003E809BCC3F80000043636E4B000000004678436B000000016779426D000004B00000000F5769646520496E7365727400000000000000000000000000000000003F0000003F0000003F0000003F2AAAAB000000003F800000000000003F8000003E86E1FD3F23ED9E3F4000003F4000003F4000003E3618873F80000043636E4B000000004678436B000000016779426D000004B00000000F576964652053656E64000000000000000000000000000000000000003F0000003F0000003F0000003F2AAAAB000000003F800000000000003F8000003E86E1FD3F23ED9E3F4000003F4000003F4000003E3618870000000043636E4B000000004678436B000000016779426D000004B00000000F4465657020496E7365727400000000000000000000000000000000003F0000003F0000003F0000003F2AAAAB3E809BCC00000000000000003F8000003E86E1FD3F23ED9E3F4000003F4000003F4000003E3618873F80000043636E4B000000004678436B000000016779426D000004B00000000F446565702053656E64000000000000000000000000000000000000003F0000003F0000003F0000003F2AAAAB3E809BCC00000000000000003F8000003E86E1FD3F23ED9E3F4000003F4000003F4000003E3618870000000043636E4B000000004678436B000000016779426D000004B00000000F5769646520616E64204465657020496E7365727400000000000000003F0000003F0000003F0000003F2AAAAB3E809BCC3F800000000000003F8000003E86E1FD3F23ED9E3F4000003F4000003F4000003E3618873F80000043636E4B000000004678436B000000016779426D000004B00000000F5769646520616E6420446565702053656E64000000000000000000003F0000003F0000003F0000003F2AAAAB3E809BCC3F800000000000003F8000003E86E1FD3F23ED9E3F4000003F4000003F4000003E3618870000000043636E4B000000004678436B000000016779426D000004B00000000F4D6178000000000000000000000000000000000000000000000000003ED555553F0000003F2AAAAB3F2AAAAB3F353BEF3F800000000000003F8000003E86E1FD3F23ED9E3F4000003F4000003F4000003F353BEF3F80000043636E4B000000004678436B000000016779426D000004B00000000F436C61726966790000000000000000000000000000000000000000003EAAAAAB3F0000003F4000003F1555553E809BCC3F8000003F8000003F8000003E5D8BB83F45E8BE3E8000003F4000003F5555553E809BCC3F80000043636E4B000000004678436B000000016779426D000004B00000000F44656661756C747300000000000000000000000000000000000000003F0000003F0000003F0000003F155555000000003F800000000000003F8000003E86E1FD3F23ED9E3F4000003F4000003F4000003E809BCC3F800000
+
+[RAE3-0SE]
+UID=56631642
+saved in preset=1
+
+[RAE3-1]
+UID=56844638
+saved in preset=1
+can be randomized=1
+INDEXvisible=1
+Vswitch=0
+Tcaption=bypass
+COLcolor=clSwitchOn
+VON value=1
+VOFF value=0
+Vnull evt if OFF=0
+INDEXgroup=0
+Vat least one=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.529411792755127
+Vmouse y=0
+Vallow drop=0
+
+[RAE3-1switchSE]
+UID=56844855
+edit enabled=0
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=3
+top=30
+width=70
+height=14
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+frames count=1
+frames alignment=0
+show border=0
+border width=1
+rounded=1
+round size=2
+show caption=1
+caption font color=clFont
+caption font size factor=0.899999976158142
+caption align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+fit size=1
+ON color=clSwitchOn
+OFF color=clControlBack
+font ON color=clFont
+font OFF color=clFont
+border ON color=clControlBorder
+border OFF color=clControlBorder
+show small led=1
+small led size=8
+small led ON color=cl7
+small led OFF color=cl8
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RAE3-1mouse dwnSE]
+UID=56845835
+
+[RAE3-1dbl clickSE]
+UID=56845876
+
+[RAE3-1mouse xSE]
+UID=56845910
+
+[RAE3-1mouse ySE]
+UID=56845947
+
+[RAE3-2]
+UID=56850484
+INDEXvisible=1
+Tcaption=show
+COLcolor=clControlBack
+VOFF value=0
+VON value=1
+Vnull evt if OFF=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=1
+Vmouse y=0.666666686534882
+Vallow drop=0
+
+[RAE3-2buttonSE]
+UID=56850662
+edit enabled=0
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=78
+top=30
+width=70
+height=14
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clButton
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clControlBorder
+border width=1
+rounded=1
+round size=2
+show caption=1
+caption font color=clFont
+caption font size factor=0.899999976158142
+caption align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+time code=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RAE3-2mouse dwnSE]
+UID=56850910
+
+[RAE3-2dbl clickSE]
+UID=56850960
+
+[RAE3-2mouse xSE]
+UID=56850997
+
+[RAE3-2mouse ySE]
+UID=56851035
+
+[RAE3-3]
+UID=56854383
+
+[RAE3-4]
+UID=56854957
+
+[RAE3-5]
+UID=56855503
+
+[RAE3-6]
+UID=56856041
+
+[RAE3-7]
+UID=56856728
+Vmsg=0
+Vcode1=0
+Vcode2=0
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+
+[RAE3-CPSE]
+enabled=1
+on top=0
+opacity=1
+left=2
+top=602
+width=110
+height=70
+zoom scale=1
+transparent=0
+background color=clLiterPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clLiterPanelBack
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+name=GSpace
+where=0
+saved in preset=1
+can be randomized=1
+undo enabled=1
+shared=0
+presets panel=0
+
+[RAE3-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE3-CPTOOLBARTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE3-CPTOOLBARTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+[RAE4-]
+PATCHTYPE=0
+VERSION=73
+FNAM=GMulti
+ORIGINDEVICE=
+NBPG=8
+OFFSETX=0
+OFFSETY=0
+UID=59124565
+ID0=7
+L0=200
+T0=200
+DLL0=C:\Hollyhock\Config\Plug-Ins\VST\GPlugins\GMulti.plugin
+DLLCONTENT0=GMulti,"C:\Program Files\Steinberg\Vstplugins\GPlugins\GMulti.dll",67794178,VST
+ID1=9
+L1=50
+T1=150
+ID2=8
+L2=50
+T2=110
+ID3=1
+L3=50
+T3=200
+ID4=1
+L4=50
+T4=250
+ID5=2
+L5=400
+T5=250
+ID6=2
+L6=400
+T6=300
+ID7=5
+L7=50
+T7=300
+C0=0100010000000200
+CSRCNAME0=SWITCH 1
+CTARGNAME0=BYPASS
+C1=0200010000000000
+CSRCNAME1=BUTTON 2
+CTARGNAME1=SHOW EDITOR
+C2=0300000000000300
+CSRCNAME2=AUDIO 1
+CTARGNAME2=IN 1
+C3=0400000000000400
+CSRCNAME3=AUDIO 2
+CTARGNAME3=IN 2
+C4=0700000000000700
+CSRCNAME4=MIDI 1
+CTARGNAME4=MIDI IN
+C5=0000050005000000
+CSRCNAME5=OUT 1
+CTARGNAME5=AUDIO 1
+C6=0000060006000000
+CSRCNAME6=OUT 2
+CTARGNAME6=AUDIO 2
+NBCO=7
+
+[RAE4-PASE]
+name=GMulti
+where=0
+saved in preset=1
+can be randomized=1
+undo enabled=1
+shared=0
+presets panel=0
+enabled=1
+on top=0
+opacity=1
+left=355
+top=22
+width=110
+height=70
+zoom scale=1
+transparent=0
+background color=clLiterPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clLiterPanelBack
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+
+[RAE4-PRESETSSE]
+UID=47237744
+edit enabled=1
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=3
+top=23
+width=161
+height=22
+zoom scale=1
+transparent=0
+background color=clMoreLitePanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=1
+border color=clControlBorder
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clMoreLitePanelBack
+show toolbar=1
+toolbar size=15
+minimized=1
+HeightBeforeMinimize=86
+WidthBeforeMinimize=161
+show border button=0
+button color=clControlBack
+button font color=clFont
+button border color=clControlBorder
+show cmd=1
+show border cmd=0
+cmd ON color=clURed
+cmd OFF color=clControlBack
+cmd font ON color=clFont
+cmd font OFF color=clFont
+cmd border ON color=clControlBorder
+cmd border OFF color=clControlBorder
+silent edit=0
+
+[RAE4-PRESETS]
+UID=47237744
+VISIBLE=0
+MINIMIZED=1
+CURRENT CAPTION=
+CURRENT NUM=0
+
+[RAE4-PRESETSTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE4-PRESETSTBPREVIOUSSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE4-PRESETSTBNEXTSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE4-0]
+UID=59146866
+saved in preset=1
+Vvisible=0
+Vbypass=0
+Vin 1=-1.28014051914215
+Vin 2=-1.11592721939087
+Vout 1=-0.975246965885162
+Vout 2=-0.879913508892059
+INDEXprogram=0
+Vlatency=0
+Vsend to usine=1
+CHUNK=5047303100000000250200006A010000140000000C0000000B0000000F0000000800000016000000020000000300000001000000000000000D0000000E000000120000001300000017000000150000001400000004000000050000000900000010000000DC06000043636E4B000000004678426B0000000167794178000004B00000000A000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000043636E4B000000004678436B0000000167794178000004B00000001A537562746C65204D69780000000000000000000000000000000000003F000000000000003F8000003F4A5A473F6147AE3D851EB83ECCCCCD3F1890CF000000003E800000000000003F5851EC3F128F5C000000003ED5766F3F8000003EC00000000000003F1851EC3EC28F5C3B23D70A3B23D70A3F8000003F400000000000003F40000043636E4B000000004678436B0000000167794178000004B00000001A44656661756C747300000000000000000000000000000000000000003F0000003E21AF283F1A209B3ECBBECB3F000000000000003ECCCCCD3F1890CF3F0000003E800000000000003F000000000000003DCCCCCD3E4486773F0000003E800000000000003F000000000000003D4CCCCD3DBA2E8C3F0000003E800000000000003F80000043636E4B000000004678436B0000000167794178000004B00000001A44656661756C747300000000000000000000000000000000000000003F0000003E21AF283F1A209B3ECBBECB3F000000000000003ECCCCCD3F1890CF3F0000003E800000000000003F000000000000003DCCCCCD3E4486773F0000003E800000000000003F000000000000003D4CCCCD3DBA2E8C3F0000003E800000000000003F80000043636E4B000000004678436B0000000167794178000004B00000001A44656661756C747300000000000000000000000000000000000000003F0000003E21AF283F1A209B3ECBBECB3F000000000000003ECCCCCD3F1890CF3F0000003E800000000000003F000000000000003DCCCCCD3E4486773F0000003E800000000000003F000000000000003D4CCCCD3DBA2E8C3F0000003E800000000000003F80000043636E4B000000004678436B0000000167794178000004B00000001A44656661756C747300000000000000000000000000000000000000003F0000003E21AF283F1A209B3ECBBECB3F000000000000003ECCCCCD3F1890CF3F0000003E800000000000003F000000000000003DCCCCCD3E4486773F0000003E800000000000003F000000000000003D4CCCCD3DBA2E8C3F0000003E800000000000003F80000043636E4B000000004678436B0000000167794178000004B00000001A44656661756C747300000000000000000000000000000000000000003F0000003E21AF283F1A209B3ECBBECB3F000000000000003ECCCCCD3F1890CF3F0000003E800000000000003F000000000000003DCCCCCD3E4486773F0000003E800000000000003F000000000000003D4CCCCD3DBA2E8C3F0000003E800000000000003F80000043636E4B000000004678436B0000000167794178000004B00000001A44656661756C747300000000000000000000000000000000000000003F0000003E21AF283F1A209B3ECBBECB3F000000000000003ECCCCCD3F1890CF3F0000003E800000000000003F000000000000003DCCCCCD3E4486773F0000003E800000000000003F000000000000003D4CCCCD3DBA2E8C3F0000003E800000000000003F80000043636E4B000000004678436B0000000167794178000004B00000001A44656661756C747300000000000000000000000000000000000000003F0000003E21AF283F1A209B3ECBBECB3F000000000000003ECCCCCD3F1890CF3F0000003E800000000000003F000000000000003DCCCCCD3E4486773F0000003E800000000000003F000000000000003D4CCCCD3DBA2E8C3F0000003E800000000000003F80000043636E4B000000004678436B0000000167794178000004B00000001A44656661756C747300000000000000000000000000000000000000003F0000003E21AF283F1A209B3ECBBECB3F000000000000003ECCCCCD3F1890CF3F0000003E800000000000003F000000000000003DCCCCCD3E4486773F0000003E800000000000003F000000000000003D4CCCCD3DBA2E8C3F0000003E800000000000003F80000043636E4B000000004678436B0000000167794178000004B00000001A44656661756C747300000000000000000000000000000000000000003F0000003E21AF283F1A209B3ECBBECB3F000000000000003ECCCCCD3F1890CF3F0000003E800000000000003F000000000000003DCCCCCD3E4486773F0000003E800000000000003F000000000000003D4CCCCD3DBA2E8C3F0000003E800000000000003F800000
+
+[RAE4-0SE]
+UID=59146866
+saved in preset=1
+
+[RAE4-1]
+UID=59491648
+saved in preset=1
+can be randomized=1
+INDEXvisible=1
+Vswitch=0
+Tcaption=bypass
+COLcolor=clSwitchOn
+VON value=1
+VOFF value=0
+Vnull evt if OFF=0
+INDEXgroup=0
+Vat least one=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.147058829665184
+Vmouse y=0
+Vallow drop=0
+
+[RAE4-1switchSE]
+UID=59491849
+edit enabled=0
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=3
+top=30
+width=70
+height=14
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+frames count=1
+frames alignment=0
+show border=0
+border width=1
+rounded=1
+round size=2
+show caption=1
+caption font color=clFont
+caption font size factor=0.899999976158142
+caption align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+fit size=1
+ON color=clSwitchOn
+OFF color=clControlBack
+font ON color=clFont
+font OFF color=clFont
+border ON color=clControlBorder
+border OFF color=clControlBorder
+show small led=1
+small led size=8
+small led ON color=cl7
+small led OFF color=cl8
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RAE4-1mouse dwnSE]
+UID=59492900
+
+[RAE4-1dbl clickSE]
+UID=59492933
+
+[RAE4-1mouse xSE]
+UID=59492963
+
+[RAE4-1mouse ySE]
+UID=59493004
+
+[RAE4-2]
+UID=59497221
+INDEXvisible=1
+Tcaption=show
+COLcolor=clControlBack
+VOFF value=0
+VON value=1
+Vnull evt if OFF=0
+Vmouse dwn=0
+Vdbl click=0
+Vmouse x=0.205882355570793
+Vmouse y=1
+Vallow drop=0
+
+[RAE4-2buttonSE]
+UID=59497387
+edit enabled=0
+on top=0
+opacity=1
+blur softness=0
+vertical=0
+rotation angle=0
+left=78
+top=30
+width=70
+height=14
+floating x=0
+floating y=0
+ignored in physical engine=0
+collide=0
+collide info=0
+speed x=0
+speed y=0
+angular speed=0
+transparent=0
+background color=clButton
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clControlBorder
+border width=1
+rounded=1
+round size=2
+show caption=1
+caption font color=clFont
+caption font size factor=0.899999976158142
+caption align=0
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+time code=0
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RAE4-2mouse dwnSE]
+UID=59497632
+
+[RAE4-2dbl clickSE]
+UID=59497669
+
+[RAE4-2mouse xSE]
+UID=59497703
+
+[RAE4-2mouse ySE]
+UID=59497737
+
+[RAE4-3]
+UID=59500943
+
+[RAE4-4]
+UID=59501497
+
+[RAE4-5]
+UID=59502019
+
+[RAE4-6]
+UID=59502561
+
+[RAE4-7]
+UID=59503264
+Vmsg=0
+Vcode1=0
+Vcode2=0
+INDEXmode=0
+INDEXfilter=0
+Vunpack=0
+
+[RAE4-CPSE]
+enabled=1
+on top=0
+opacity=1
+left=355
+top=22
+width=110
+height=70
+zoom scale=1
+transparent=0
+background color=clLiterPanelBack
+frames count=1
+frames alignment=0
+fit size=1
+show border=0
+border color=clLiterPanelBack
+border width=0
+rounded=1
+round size=4
+show caption=1
+caption font color=clFont
+caption font size factor=0.600000023841858
+caption align=1
+caption font name=Arial
+caption font bold=0
+caption font italic=0
+caption font underline=0
+show header=1
+header height=20
+header color=clLiterPanelBack
+show toolbar=1
+toolbar size=16
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+snap to grid=1
+grid size=7
+auto resize=1
+auto resize margin=6
+name=GMulti
+where=0
+saved in preset=1
+can be randomized=1
+undo enabled=1
+shared=0
+presets panel=0
+
+[RAE4-CPTOOLBARTBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE4-CPTOOLBARTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RAE4-CPTOOLBARTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+[RADINSE]
+UID=98822858
+left=2
+top=22
+width=110
+height=60
+zoom scale=1
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+saved in preset=1
+show vu-meter and gain=0
+
+[RADIN]
+UID=98822858
+VISIBLE=0
+MINIMIZED=0
+CNT=0
+
+[RADINTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADINGAINgainSE]
+UID=98823211
+name=1
+saved in preset=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADINGAIN]
+Vgain=0
+
+[RADOUTSE]
+UID=98840771
+left=2
+top=723
+width=110
+height=258
+zoom scale=1
+minimized=0
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+saved in preset=1
+show on/off=1
+show mute=1
+show solo=1
+show vu-meter and gain=1
+
+[RADOUT]
+UID=98840771
+VISIBLE=0
+MINIMIZED=0
+CNT=2
+ENABLED0=1
+MINI0=1
+SPA0=Stereo Out
+ENABLED1=1
+MINI1=0
+SRA1=1
+
+[RADOUTTBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTTBPRESETSE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTGAINgainSE]
+UID=98840880
+name=1
+saved in preset=1
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADOUTGAIN]
+Vgain=-23.9931755065918
+
+[RADOUTSOLOSSE]
+UID=98857834
+saved in preset=1
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTSOLO]
+VS=0
+
+[RADOUTMUTEMSE]
+UID=98857761
+saved in preset=1
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTMUTE]
+VM=0
+
+[RADOUTONOFFonSE]
+UID=98857108
+saved in preset=1
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTONOFF]
+Von=1
+
+[RADOUTITEM0SE]
+minimized=1
+HeightBeforeMinimize=0
+WidthBeforeMinimize=0
+saved in preset=1
+
+[RADOUTITEM0]
+UID=98860337
+VISIBLE=0
+MINIMIZED=1
+
+[RADOUTITEM0TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTITEM0TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTGAIN0gainSE]
+UID=98862111
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADOUTGAIN0]
+Vgain=0
+
+[RADOUTMUTE0MSE]
+UID=98862362
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTMUTE0]
+VM=0
+
+[RADOUTSOLO0SSE]
+UID=98862788
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTSOLO0]
+VS=0
+
+[RADOUTPRE0preSE]
+UID=98862581
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTPRE0]
+Vpre=0
+
+[RADOUTITEM1SE]
+minimized=0
+HeightBeforeMinimize=35
+WidthBeforeMinimize=107
+saved in preset=1
+
+[RADOUTITEM1]
+UID=2875212
+VISIBLE=0
+MINIMIZED=0
+
+[RADOUTITEM1TBENABLESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTITEM1TBMINIMIZESE]
+inverse=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTGAIN1gainSE]
+UID=2876576
+touch hi precision=0
+precision factor=8
+inverse=0
+quantize=0
+mode=0
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+osc tag order=1
+osc mode=0
+range min=0
+range max=1
+curve=2
+coeff=1
+auto record on click=0
+is playing record=0
+
+[RADOUTGAIN1]
+Vgain=-80
+
+[RADOUTMUTE1MSE]
+UID=2876756
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTMUTE1]
+VM=0
+
+[RADOUTSOLO1SSE]
+UID=2877068
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+
+[RADOUTSOLO1]
+VS=0
+
+[RADOUTPRE1preSE]
+UID=2876920
+inverse=0
+quantize=0
+mode=2
+channel=1
+control type=0
+control num=0
+motorized=0
+mackie mode=0
+only if rack is on=0
+soft take over=0
+short cut=0
+key mode=1
+mouse mode=1
+osc tag order=1
+osc mode=0
+auto record on click=0
+is playing record=0
+
+[RADOUTPRE1]
+Vpre=1
