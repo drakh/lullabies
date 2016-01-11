@@ -427,10 +427,10 @@ UID=51435094
 saved in preset=1
 Vvisible=0
 Vbypass=0
-Vin 1=1.0000000458137E-18
-Vin 2=1.0000000458137E-18
-Vout 1=0
-Vout 2=0
+Vin 1=0.438292860984802
+Vin 2=0.438292860984802
+Vout 1=-0.0206641983240843
+Vout 2=-0.106028601527214
 INDEXprogram=0
 Vlatency=0
 Vsend to usine=1
@@ -455,7 +455,7 @@ INDEXgroup=0
 Vat least one=0
 Vmouse dwn=0
 Vdbl click=0
-Vmouse x=0.588235318660736
+Vmouse x=0
 Vmouse y=0.75
 Vallow drop=0
 
@@ -545,8 +545,8 @@ VON value=1
 Vnull evt if OFF=0
 Vmouse dwn=0
 Vdbl click=0
-Vmouse x=0.661764681339264
-Vmouse y=0.0833333358168602
+Vmouse x=0.235294118523598
+Vmouse y=1
 Vallow drop=0
 
 [RAE1-2buttonSE]
@@ -754,10 +754,10 @@ MINI0=1
 SRA0=0
 ENABLED1=1
 MINI1=1
-SRA1=3
+SRA1=1
 ENABLED2=1
 MINI2=1
-SRA2=1
+SRA2=3
 ENABLED3=1
 MINI3=1
 SRA3=4
@@ -971,7 +971,7 @@ WidthBeforeMinimize=107
 saved in preset=1
 
 [RADINITEM2]
-UID=79953881
+UID=51948375
 VISIBLE=1
 MINIMIZED=1
 
@@ -1008,7 +1008,7 @@ osc tag order=1
 osc mode=0
 
 [RADINGAIN2gainSE]
-UID=79956765
+UID=51950781
 touch hi precision=0
 precision factor=8
 inverse=0
@@ -1041,7 +1041,7 @@ WidthBeforeMinimize=107
 saved in preset=1
 
 [RADINITEM3]
-UID=51948375
+UID=53132265
 VISIBLE=1
 MINIMIZED=1
 
@@ -1078,7 +1078,7 @@ osc tag order=1
 osc mode=0
 
 [RADINGAIN3gainSE]
-UID=51950781
+UID=53134628
 touch hi precision=0
 precision factor=8
 inverse=0
@@ -1111,7 +1111,7 @@ WidthBeforeMinimize=107
 saved in preset=1
 
 [RADINITEM4]
-UID=53132265
+UID=38599960
 VISIBLE=1
 MINIMIZED=1
 
@@ -1148,7 +1148,7 @@ osc tag order=1
 osc mode=0
 
 [RADINGAIN4gainSE]
-UID=53134628
+UID=38602331
 touch hi precision=0
 precision factor=8
 inverse=0
@@ -1172,14 +1172,14 @@ auto record on click=0
 is playing record=0
 
 [RADINGAIN4]
-Vgain=-80
+Vgain=0
 
 [RADOUTSE]
 UID=95978209
 left=2
-top=723
+top=761
 width=111
-height=258
+height=220
 zoom scale=1
 minimized=0
 HeightBeforeMinimize=0
@@ -1199,7 +1199,7 @@ ENABLED0=1
 MINI0=1
 SRA0=4
 ENABLED1=1
-MINI1=0
+MINI1=1
 SPA1=Stereo Out
 
 [RADOUTTBMINIMIZESE]
@@ -1470,15 +1470,15 @@ is playing record=0
 Vpre=0
 
 [RADOUTITEM1SE]
-minimized=0
-HeightBeforeMinimize=35
+minimized=1
+HeightBeforeMinimize=56
 WidthBeforeMinimize=107
 saved in preset=1
 
 [RADOUTITEM1]
 UID=4490979
 VISIBLE=1
-MINIMIZED=0
+MINIMIZED=1
 
 [RADOUTITEM1TBENABLESE]
 inverse=0

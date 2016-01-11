@@ -425,8 +425,8 @@ osc mode=0
 
 [RAE1-0]
 UID=53471937
-Vfrequency=53.0118827819824
-Vamplitude=0.799777150154114
+Vfrequency=56.9990501403809
+Vamplitude=0.646751761436462
 Vsmooth amplitude=1
 INDEXtype=0
 
@@ -439,7 +439,7 @@ UID=9286065
 [RAE1-3]
 UID=12653574
 Von=1
-Vout=53.0118827819824
+Vout=56.9990501403809
 INDEXsynchro=0
 Vfreq=0.4296875
 Vmin=53
@@ -450,7 +450,7 @@ Vphase=0
 [RAE1-4]
 UID=81016678
 Von=1
-Vout=0.799777150154114
+Vout=0.646751761436462
 INDEXsynchro=0
 Vfreq=0.21484375
 Vmin=0.5
@@ -460,15 +460,15 @@ Vphase=0
 
 [RAE1-5]
 UID=43517226
-Vfrequency=57.9955444335938
-Vamplitude=0.500891268253326
+Vfrequency=54.9350357055664
+Vamplitude=0.799928903579712
 Vsmooth amplitude=1
 INDEXtype=0
 
 [RAE1-6]
 UID=74768299
 Von=1
-Vout=57.9955444335938
+Vout=54.9350357055664
 INDEXsynchro=0
 Vfreq=0.21484375
 Vmin=52
@@ -479,7 +479,7 @@ Vphase=0
 [RAE1-7]
 UID=22910269
 Von=1
-Vout=0.500891268253326
+Vout=0.799928903579712
 INDEXsynchro=0
 Vfreq=0.4296875
 Vmin=0.5
@@ -662,9 +662,9 @@ Vgain=0
 [RADOUTSE]
 UID=9112426
 left=2
-top=665
+top=741
 width=111
-height=316
+height=240
 zoom scale=1
 minimized=0
 HeightBeforeMinimize=0
@@ -682,13 +682,13 @@ MINIMIZED=0
 CNT=3
 ENABLED0=1
 MINI0=1
-SRA0=4
+SPA0=Stereo Out
 ENABLED1=1
-MINI1=0
-SRA1=5
+MINI1=1
+SRA1=4
 ENABLED2=1
-MINI2=0
-SPA2=Stereo Out
+MINI2=1
+SRA2=5
 
 [RADOUTTBMINIMIZESE]
 inverse=0
@@ -822,12 +822,12 @@ Von=1
 
 [RADOUTITEM0SE]
 minimized=1
-HeightBeforeMinimize=0
-WidthBeforeMinimize=0
+HeightBeforeMinimize=56
+WidthBeforeMinimize=107
 saved in preset=1
 
 [RADOUTITEM0]
-UID=25105697
+UID=51952401
 VISIBLE=1
 MINIMIZED=1
 
@@ -864,7 +864,7 @@ osc tag order=1
 osc mode=0
 
 [RADOUTGAIN0gainSE]
-UID=25107068
+UID=51953836
 touch hi precision=0
 precision factor=8
 inverse=0
@@ -891,7 +891,7 @@ is playing record=0
 Vgain=0
 
 [RADOUTMUTE0MSE]
-UID=25107252
+UID=51954039
 inverse=0
 quantize=0
 mode=2
@@ -914,7 +914,7 @@ is playing record=0
 VM=0
 
 [RADOUTSOLO0SSE]
-UID=25107576
+UID=51954363
 inverse=0
 quantize=0
 mode=2
@@ -935,7 +935,7 @@ osc mode=0
 VS=0
 
 [RADOUTPRE0preSE]
-UID=25107416
+UID=51954207
 inverse=0
 quantize=0
 mode=2
@@ -955,18 +955,18 @@ auto record on click=0
 is playing record=0
 
 [RADOUTPRE0]
-Vpre=0
+Vpre=1
 
 [RADOUTITEM1SE]
-minimized=0
+minimized=1
 HeightBeforeMinimize=35
 WidthBeforeMinimize=107
 saved in preset=1
 
 [RADOUTITEM1]
-UID=25762254
+UID=9484213
 VISIBLE=1
-MINIMIZED=0
+MINIMIZED=1
 
 [RADOUTITEM1TBENABLESE]
 inverse=0
@@ -1001,7 +1001,7 @@ osc tag order=1
 osc mode=0
 
 [RADOUTGAIN1gainSE]
-UID=25763930
+UID=9485711
 touch hi precision=0
 precision factor=8
 inverse=0
@@ -1025,10 +1025,10 @@ auto record on click=0
 is playing record=0
 
 [RADOUTGAIN1]
-Vgain=-80
+Vgain=0
 
 [RADOUTMUTE1MSE]
-UID=25764145
+UID=9485919
 inverse=0
 quantize=0
 mode=2
@@ -1051,7 +1051,7 @@ is playing record=0
 VM=0
 
 [RADOUTSOLO1SSE]
-UID=25764469
+UID=9486282
 inverse=0
 quantize=0
 mode=2
@@ -1072,7 +1072,7 @@ osc mode=0
 VS=0
 
 [RADOUTPRE1preSE]
-UID=25764317
+UID=9486106
 inverse=0
 quantize=0
 mode=2
@@ -1092,18 +1092,18 @@ auto record on click=0
 is playing record=0
 
 [RADOUTPRE1]
-Vpre=1
+Vpre=0
 
 [RADOUTITEM2SE]
-minimized=0
+minimized=1
 HeightBeforeMinimize=35
 WidthBeforeMinimize=107
 saved in preset=1
 
 [RADOUTITEM2]
-UID=51952401
+UID=38604129
 VISIBLE=1
-MINIMIZED=0
+MINIMIZED=1
 
 [RADOUTITEM2TBENABLESE]
 inverse=0
@@ -1138,7 +1138,7 @@ osc tag order=1
 osc mode=0
 
 [RADOUTGAIN2gainSE]
-UID=51953836
+UID=38605627
 touch hi precision=0
 precision factor=8
 inverse=0
@@ -1165,7 +1165,7 @@ is playing record=0
 Vgain=0
 
 [RADOUTMUTE2MSE]
-UID=51954039
+UID=38605850
 inverse=0
 quantize=0
 mode=2
@@ -1188,7 +1188,7 @@ is playing record=0
 VM=0
 
 [RADOUTSOLO2SSE]
-UID=51954363
+UID=38606245
 inverse=0
 quantize=0
 mode=2
@@ -1209,7 +1209,7 @@ osc mode=0
 VS=0
 
 [RADOUTPRE2preSE]
-UID=51954207
+UID=38606053
 inverse=0
 quantize=0
 mode=2
@@ -1229,4 +1229,4 @@ auto record on click=0
 is playing record=0
 
 [RADOUTPRE2]
-Vpre=1
+Vpre=0

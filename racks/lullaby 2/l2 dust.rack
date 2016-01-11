@@ -522,7 +522,7 @@ UID=60831896
 Von=1
 Vout=0
 INDEXsynchro=0
-Vfreq=1.57256102561951
+Vfreq=6.01253080368042
 Vmin=0
 Vmax=1
 INDEXtype=3
@@ -530,20 +530,20 @@ Vphase=0
 
 [RAE1-3]
 UID=59201730
-Vout=0.675394177436829
+Vout=0.261580675840378
 COLLAPS=1
 
 [RAE1-4]
 UID=84886192
-VA=0.675394177436829
+VA=0.261580675840378
 VB=0
 
 [RAE1-5]
 UID=94224106
 Von=1
-Vout=1.57256102561951
+Vout=6.01253080368042
 INDEXsynchro=0
-Vfreq=2.44066286087036
+Vfreq=4.60661697387695
 Vmin=1
 Vmax=10
 INDEXtype=6
@@ -551,7 +551,7 @@ Vphase=0
 
 [RAE1-6]
 UID=98752757
-Vout=2.44066286087036
+Vout=4.60661697387695
 Vmin=1
 Vmax=5
 Vinterval=100
@@ -572,7 +572,7 @@ Vinit phase value=0
 [RAE1-8]
 UID=45967114
 VA=0
-VB=0.23774091899395
+VB=-0.622566998004913
 
 [RAE1-9]
 UID=3015693
@@ -696,10 +696,10 @@ osc mode=0
 [RAE1-10]
 UID=9988390
 Vbypass=0
-Vdelay=14.9031419754028
+Vdelay=10.7074775695801
 Vfeedback=36.2318840026855
 Vmax=6016.0703125
-Vnum samples=657
+Vnum samples=472
 Vinvert phase=0
 Vsmooth=1
 INDEXsmooth speed=2
@@ -707,10 +707,10 @@ INDEXsmooth speed=2
 [RAE1-11]
 UID=7735032
 saved in preset=1
-Vin  1=2.38933959423315E-12
-Vin  2=2.38933959423315E-12
-Vout  1=0.00485521415248513
-Vout  2=0.000971199129708111
+Vin  1=6.32706019132456E-7
+Vin  2=6.32706019132456E-7
+Vout  1=0.00321840425021946
+Vout  2=0.00433620763942599
 Vfreeze=0
 Vroom size=95.2308197021484
 Vdamping=33.3333358764648
@@ -725,10 +725,10 @@ saved in preset=1
 [RAE1-12]
 UID=89757457
 Vbypass=0
-Vdelay=2.44066286087036
+Vdelay=4.60661697387695
 Vfeedback=0
 Vmax=59.1717071533203
-Vnum samples=107
+Vnum samples=203
 Vinvert phase=0
 Vsmooth=1
 INDEXsmooth speed=2
@@ -736,10 +736,10 @@ INDEXsmooth speed=2
 [RAE1-13]
 UID=2241920
 saved in preset=1
-Vin  1=2.39016055211816E-12
-Vin  2=2.39016055211816E-12
-Vout  1=0.0132180210202932
-Vout  2=-0.00602192245423794
+Vin  1=6.60919985406849E-10
+Vin  2=6.60919985406849E-10
+Vout  1=0.042528111487627
+Vout  2=0.0812136456370354
 Vfreeze=0
 Vroom size=91.9843444824219
 Vdamping=11.1111116409302
@@ -754,9 +754,9 @@ saved in preset=1
 [RAE1-14]
 UID=5395296
 Von=1
-Vout=14.9031419754028
+Vout=10.7074775695801
 INDEXsynchro=0
-Vfreq=1.57256102561951
+Vfreq=6.01253080368042
 Vmin=5
 Vmax=15
 INDEXtype=6
@@ -1126,8 +1126,8 @@ osc mode=0
 UID=72133924
 saved in preset=1
 INDEXvisible=1
-Vin  1=-0.0530165955424309
-Vin  2=0.0312810502946377
+Vin  1=1.01468026638031
+Vin  2=1.03139328956604
 Vout  1=0
 Vout  2=0
 Vtrig out=0
@@ -1139,8 +1139,8 @@ Vpitch=29
 INDEXgrain mode=0
 Vmouse dwn=0
 Vdbl click=0
-Vmouse x=0.510869562625885
-Vmouse y=0
+Vmouse x=0
+Vmouse y=0.647058844566345
 Vallow drop=0
 
 [RAE2-0mouse dwnSE]
@@ -1290,7 +1290,7 @@ Vrange Q max=400
 Vbin's size=64
 Vmouse dwn=0
 Vdbl click=0
-Vmouse x=0.875817000865936
+Vmouse x=0
 Vmouse y=0
 Vallow drop=0
 
@@ -1418,10 +1418,10 @@ INDEXsmooth speed=2
 [RAE2-7]
 UID=50815188
 saved in preset=1
-Vin  1=-0.0505296885967255
-Vin  2=0.0466761589050293
-Vout  1=0.20915350317955
-Vout  2=0.2098538428545
+Vin  1=0.314712792634964
+Vin  2=0.30557456612587
+Vout  1=0.477539658546448
+Vout  2=0.708395838737488
 Vfreeze=0
 Vroom size=93.3465957641602
 Vdamping=24.6376819610596
@@ -1613,9 +1613,9 @@ Vgain=0
 [RADOUTSE]
 UID=88485693
 left=2
-top=569
-width=113
-height=412
+top=721
+width=111
+height=260
 zoom scale=1
 minimized=0
 HeightBeforeMinimize=0
@@ -1632,16 +1632,16 @@ VISIBLE=1
 MINIMIZED=0
 CNT=4
 ENABLED0=1
-MINI0=0
+MINI0=1
 SPA0=Stereo Out
 ENABLED1=1
-MINI1=0
+MINI1=1
 SRA1=3
 ENABLED2=1
-MINI2=0
+MINI2=1
 SRA2=4
 ENABLED3=1
-MINI3=0
+MINI3=1
 SRA3=5
 
 [RADOUTTBMINIMIZESE]
@@ -1775,15 +1775,15 @@ is playing record=0
 Von=1
 
 [RADOUTITEM0SE]
-minimized=0
-HeightBeforeMinimize=0
-WidthBeforeMinimize=0
+minimized=1
+HeightBeforeMinimize=56
+WidthBeforeMinimize=107
 saved in preset=1
 
 [RADOUTITEM0]
 UID=88501228
 VISIBLE=1
-MINIMIZED=0
+MINIMIZED=1
 
 [RADOUTITEM0TBENABLESE]
 inverse=0
@@ -1912,15 +1912,15 @@ is playing record=0
 Vpre=0
 
 [RADOUTITEM1SE]
-minimized=0
+minimized=1
 HeightBeforeMinimize=56
-WidthBeforeMinimize=109
+WidthBeforeMinimize=107
 saved in preset=1
 
 [RADOUTITEM1]
 UID=10278385
 VISIBLE=1
-MINIMIZED=0
+MINIMIZED=1
 
 [RADOUTITEM1TBENABLESE]
 inverse=0
@@ -2049,15 +2049,15 @@ is playing record=0
 Vpre=1
 
 [RADOUTITEM2SE]
-minimized=0
-HeightBeforeMinimize=35
+minimized=1
+HeightBeforeMinimize=56
 WidthBeforeMinimize=107
 saved in preset=1
 
 [RADOUTITEM2]
 UID=47533612
 VISIBLE=1
-MINIMIZED=0
+MINIMIZED=1
 
 [RADOUTITEM2TBENABLESE]
 inverse=0
@@ -2186,15 +2186,15 @@ is playing record=0
 Vpre=1
 
 [RADOUTITEM3SE]
-minimized=0
-HeightBeforeMinimize=35
+minimized=1
+HeightBeforeMinimize=56
 WidthBeforeMinimize=107
 saved in preset=1
 
 [RADOUTITEM3]
 UID=79963201
 VISIBLE=1
-MINIMIZED=0
+MINIMIZED=1
 
 [RADOUTITEM3TBENABLESE]
 inverse=0
